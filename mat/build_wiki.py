@@ -1,6 +1,6 @@
 """Offline Polish Wikipedia retrieval corpus (history + art/culture/economy/press) and its BM25 index.
 hf download wikimedia/wikipedia --repo-type dataset --include "20231101.pl/*" --local-dir data/wiki
-python mat/build_wiki.py data/wiki/20231101.pl data/wiki_index      (CPU, ~15 min) -> docs.jsonl.gz + bm25/
+python mat/build_wiki.py data/wiki/20231101.pl data/wiki_index      (CPU, ~20 min) -> docs.jsonl.gz + bm25/
 """
 import glob, gzip, json, os, re, sys
 import pyarrow.parquet as pq

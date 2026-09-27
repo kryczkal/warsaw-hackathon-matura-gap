@@ -44,7 +44,7 @@ On a new exam, drop the last argument and `eval.sh` retrieves the context itself
     hf download wikimedia/wikipedia --repo-type dataset --include "20231101.pl/*" --local-dir data/wiki
     python mat/build_wiki.py data/wiki/20231101.pl data/wiki_index
 
-Nothing goes online at exam time.
+This rebuilds the shipped contexts in `results/ctx` exactly (checked). Nothing goes online at exam time.
 
 ## Retrain
 
