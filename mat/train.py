@@ -10,7 +10,6 @@ from mat.common import SYSTEM, user_text
 
 ap = argparse.ArgumentParser()
 ap.add_argument("--model", default="google/gemma-4-12B")
-ap.add_argument("--template-from", default="google/gemma-4-12B-it")
 ap.add_argument("--data", required=True)
 ap.add_argument("--out", required=True)
 ap.add_argument("--epochs", type=float, default=3)
@@ -28,9 +27,8 @@ from transformers import AutoTokenizer, AutoModelForImageTextToText, get_cosine_
 from peft import LoraConfig, get_peft_model
 
 tok = AutoTokenizer.from_pretrained(args.model)
-if not tok.chat_template:
+if not tok.chat_template:  # the base checkpoint has none: use the instruction-tuned Gemma-4 template
     tok.chat_template = (Path(__file__).parent / "gemma4_it_template.jinja").read_text()
-    print("chat template copied from", args.template_from)
 
 
 def encode(rec):

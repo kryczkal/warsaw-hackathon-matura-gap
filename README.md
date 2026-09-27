@@ -4,10 +4,10 @@ Our entry for the "max improvement" track of the Warsaw Model Trainers hackathon
 
 | exam | before | after | gap |
 |---|---|---|---|
-| CKE May 2024 | 2 | 31 | +29 |
-| CKE May 2025 | 8 | 35 | +27 |
-| CKE May 2026 | 6 | 39 | +33 |
-| CKE May 2023 (organizers' sample package) | 7 | 39 | +32 |
+| `2405` CKE May 2024 | 2 | 31 | +29 |
+| `2505` CKE May 2025 | 8 | 35 | +27 |
+| `2605` CKE May 2026 | 6 | 39 | +33 |
+| `mock` CKE May 2023, the organizers' sample package | 7 | 39 | +32 |
 | **avg** | **5.75** | **36.0** | **+30.25 (50.4 pp)** |
 
 **Before:** the untouched `google/gemma-4-12B` base model, quantized to Q4_K_M (7.38 GB). It gets each item's own text and images, nothing else, and answers greedily.

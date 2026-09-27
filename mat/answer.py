@@ -1,4 +1,4 @@
-"""Answer an exam with a running llama-server (see mat/serve.sh).
+"""Answer an exam with a running llama-server (mat/run.sh starts one and calls this).
 
 python mat/answer.py --exam EXAM_DIR --out answers.json --mode baseline|harness [--context ctx.json] [--describe]
 baseline: the exam's own text, greedy, one answer per item.
