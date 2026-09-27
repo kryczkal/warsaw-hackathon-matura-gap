@@ -46,17 +46,28 @@ On a new exam, drop the last argument and `eval.sh` retrieves the context itself
 
 This rebuilds the shipped contexts in `results/ctx` exactly (checked). Nothing goes online at exam time.
 
+## Training
+
+`google/gemma-4-12B` is a pretrained checkpoint, not a chat model. Out of the box it rambles or echoes the question, which is why "before" scores near zero. We teach it the exam with a LoRA (`mat/train.py`):
+- **Settings:** rank 32 on every attention and MLP projection of the language model, with the vision tower frozen. bf16, AdamW, cosine schedule.
+- **Prompt:** each record is one exam item, in the same chat prompt `answer.py` uses at test time (`mat/common.py`). Loss is on the answer tokens only.
+- **Context:** half the items carry retrieved context, so the model learns to use the materials when they help and to answer without them otherwise.
+- **Stage 1:** 2 epochs, lr 1e-4, context from Wikipedia only.
+- **Stage 2:** continues from stage 1 for 1 epoch at lr 5e-5, on the same items. Their context is now retrieved exactly as at test time (fact base + Wikipedia, up to 6k tokens).
+
+The data has two sources:
+- **CKE papers:** 494 items from CKE history papers 2015–2022, plus the 2023 papers for the old curriculum. Answers are written in exam style from the official keys.
+- **Synthetic:** 1,465 matura-style items and essays written by Claude, spread over every period in the curriculum.
+
+The fact base in `data/kb` (2,162 short entries: dates, people, terms, how to read maps and cartoons) was also written by Claude.
+
 ## Retrain
 
-On one A100 this takes a few hours. There are two stages over the same 1,959 items: stage 2 carries longer retrieved context that includes the fact base.
+On one A100 this takes a few hours:
 
     pip install -r requirements.txt -r requirements-gpu.txt
     python mat/train.py --data data/sft/stage1.jsonl --out out/stage1 --epochs 2 --bs 2 --accum 8
     python mat/train.py --data data/sft/stage2.jsonl --out out/stage2 --epochs 1 --bs 1 --accum 16 --max-len 6144 --lr 5e-5 --init-adapter out/stage1/adapter
-
-The items come from two sources:
-- 494 are from CKE history papers from 2015–2022, plus the 2023 papers for the old curriculum.
-- 1,465 are synthetic items and essays written by Claude.
 
 None of the four test exams is in the data. `python mat/check_contamination.py` finds 2–3% shared 8-word phrases, and these are citation lines and famous primary sources that CKE quotes again and again.
 
