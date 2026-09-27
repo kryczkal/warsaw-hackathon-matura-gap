@@ -12,7 +12,7 @@ Our entry for the "max improvement" track of the Warsaw Model Trainers hackathon
 
 **Before:** the untouched `google/gemma-4-12B` base model, quantized to Q4_K_M (7.38 GB). It gets each item's own text and images, nothing else, and answers greedily.
 
-**After:** the same model with our LoRA merged in, quantized to Q5_K_M (8.55 GB, plus a 0.12 GB vision projector). It runs with a harness:
+**After:** the same model with our LoRA ([weights](https://github.com/kryczkal/warsaw-hackathon-matura-gap/releases/tag/v1.0), 500 MB) merged in, quantized to Q5_K_M (8.55 GB, plus a 0.12 GB vision projector). It runs with a harness:
 - offline search over Polish Wikipedia and a hand-curated fact base (`data/kb`)
 - a first pass that describes each image literally
 - a 5-sample majority vote on closed questions
@@ -32,7 +32,7 @@ Regrade with [Claude Code](https://claude.com/claude-code):
 
 Regenerate the answers. You need a CUDA GPU with 24 GB and access to `google/gemma-4-12B` on Hugging Face:
 
-    bash mat/setup_gpu.sh      # llama.cpp, LoRA from the release, both GGUFs into gguf/
+    bash mat/setup_gpu.sh      # llama.cpp, LoRA weights, both GGUFs into gguf/
     bash mat/eval.sh base  data/exams/2505 new/2505_base.json
     bash mat/eval.sh tuned data/exams/2505 new/2505_tuned.json results/ctx/2505.json
 
@@ -69,5 +69,5 @@ None of the four test exams is in the data. `python mat/check_contamination.py` 
     data/exams/        the four test exams (exam.json, key.json, images)
     data/kb/           fact base, 1 entry per line
     data/sft/          training items
-    adapter/           LoRA config; weights are in the GitHub release
+    adapter/           LoRA config (weights in release v1.0)
     results/           answers, grades and retrieved contexts behind the table
