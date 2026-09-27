@@ -48,7 +48,7 @@ This rebuilds the shipped contexts in `results/ctx` exactly (checked). Nothing g
 
 ## Training
 
-`google/gemma-4-12B` is a pretrained checkpoint, not a chat model. Out of the box it rambles or echoes the question, which is why "before" scores near zero. We teach it the exam with a LoRA (`mat/train.py`):
+Untouched, `google/gemma-4-12B` scores near 0. We teach it the exam with a LoRA (`mat/train.py`):
 - **Settings:** rank 32 on every attention and MLP projection of the language model, with the vision tower frozen. bf16, AdamW, cosine schedule.
 - **Prompt:** each record is one exam item, in the same chat prompt `answer.py` uses at test time (`mat/common.py`). Loss is on the answer tokens only.
 - **Context:** half the items carry retrieved context, so the model learns to use the materials when they help and to answer without them otherwise.
