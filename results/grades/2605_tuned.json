@@ -1,0 +1,240 @@
+{
+ "total": 39,
+ "max": 60,
+ "items": [
+  {
+   "id": "1",
+   "points": 2,
+   "max": 2,
+   "why": "Egypt 1, China 4 correct."
+  },
+  {
+   "id": "2",
+   "points": 1,
+   "max": 1,
+   "why": "FF correct."
+  },
+  {
+   "id": "3.1",
+   "points": 1,
+   "max": 1,
+   "why": "Nie; Actium vs Caesar-Pompey war, both sources referenced."
+  },
+  {
+   "id": "3.2",
+   "points": 0,
+   "max": 1,
+   "why": "C; key D."
+  },
+  {
+   "id": "4.1",
+   "points": 0,
+   "max": 1,
+   "why": "Tak; key nie (plan shows Acre)."
+  },
+  {
+   "id": "4.2",
+   "points": 1,
+   "max": 1,
+   "why": "Italian merchant-republic quarters cited (French slip, core intact)."
+  },
+  {
+   "id": "5.1",
+   "points": 1,
+   "max": 1,
+   "why": "Jan and Marcin."
+  },
+  {
+   "id": "5.2",
+   "points": 0,
+   "max": 1,
+   "why": "Adds silver (money rent) to natural rent list."
+  },
+  {
+   "id": "6.1",
+   "points": 1,
+   "max": 1,
+   "why": "Rurykowicze, Andegawenowie."
+  },
+  {
+   "id": "6.2",
+   "points": 1,
+   "max": 1,
+   "why": "B; succession agreements, Casimir sonless."
+  },
+  {
+   "id": "7",
+   "points": 1,
+   "max": 1,
+   "why": "Reconquista with correct explanation."
+  },
+  {
+   "id": "8",
+   "points": 1,
+   "max": 1,
+   "why": "A with reference to fragment A."
+  },
+  {
+   "id": "9",
+   "points": 2,
+   "max": 2,
+   "why": "Valid similarity and difference."
+  },
+  {
+   "id": "10.1",
+   "points": 1,
+   "max": 1,
+   "why": "C."
+  },
+  {
+   "id": "10.2",
+   "points": 1,
+   "max": 1,
+   "why": "FP."
+  },
+  {
+   "id": "11",
+   "points": 1,
+   "max": 1,
+   "why": "East exports grain/wood, West manufactures - dualism."
+  },
+  {
+   "id": "12.1",
+   "points": 1,
+   "max": 1,
+   "why": "Caesar."
+  },
+  {
+   "id": "12.2",
+   "points": 0,
+   "max": 1,
+   "why": "Tak; key nie (plan shows Chocim)."
+  },
+  {
+   "id": "13",
+   "points": 2,
+   "max": 2,
+   "why": "C and A with valid justifications."
+  },
+  {
+   "id": "14.1",
+   "points": 1,
+   "max": 1,
+   "why": "Konstytucja Krolestwa Polskiego."
+  },
+  {
+   "id": "14.2",
+   "points": 1,
+   "max": 1,
+   "why": "Tak; Statut + ruble denomination as integration with Russia."
+  },
+  {
+   "id": "14.3",
+   "points": 0,
+   "max": 1,
+   "why": "PF; key FF."
+  },
+  {
+   "id": "15.1",
+   "points": 1,
+   "max": 1,
+   "why": "Tak; Prussian vs French soldier = 1870-71 war after Ems."
+  },
+  {
+   "id": "15.2",
+   "points": 1,
+   "max": 1,
+   "why": "C."
+  },
+  {
+   "id": "16.1",
+   "points": 1,
+   "max": 1,
+   "why": "Housing, school, canteen, hospital."
+  },
+  {
+   "id": "16.2",
+   "points": 1,
+   "max": 1,
+   "why": "Lodz."
+  },
+  {
+   "id": "17",
+   "points": 1,
+   "max": 1,
+   "why": "Nie; Galicia vs Prussian partition, both sources."
+  },
+  {
+   "id": "18.1",
+   "points": 0,
+   "max": 1,
+   "why": "Pilsudski; key Paderewski/Dmowski."
+  },
+  {
+   "id": "18.2",
+   "points": 0,
+   "max": 1,
+   "why": "Tak; key nie."
+  },
+  {
+   "id": "19.1",
+   "points": 0,
+   "max": 1,
+   "why": "Tak; key nie."
+  },
+  {
+   "id": "19.2",
+   "points": 0,
+   "max": 1,
+   "why": "PP; key FP."
+  },
+  {
+   "id": "20",
+   "points": 1,
+   "max": 2,
+   "why": "1930s; Spain anti-communist argument ok, first misidentifies Mussolini."
+  },
+  {
+   "id": "21",
+   "points": 2,
+   "max": 2,
+   "why": "de Gaulle, Mikolajczyk, Roosevelt."
+  },
+  {
+   "id": "22",
+   "points": 0,
+   "max": 1,
+   "why": "Tak; key nie."
+  },
+  {
+   "id": "23.1",
+   "points": 1,
+   "max": 1,
+   "why": "Nie; drawing presents Germans (Teutonic) as enemies - propaganda against the oredzie."
+  },
+  {
+   "id": "23.2",
+   "points": 1,
+   "max": 1,
+   "why": "Wyszynski."
+  },
+  {
+   "id": "24",
+   "points": 1,
+   "max": 3,
+   "why": "Czech spirit destroyed under Moscow; no 1968 intervention context, misread elements."
+  },
+  {
+   "id": "25",
+   "points": 0,
+   "max": 1,
+   "why": "Po - contradicts own justification; key przed."
+  },
+  {
+   "id": "26",
+   "points": 8,
+   "max": 15,
+   "why": "Topic 2, short-term harm/long-term benefit: A 7 (economic+social satisfactory, cultural superficial) -1 (chartist/1832 confusion), B 2 (stance wobble)."
+  }
+ ]
+}

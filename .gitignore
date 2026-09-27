@@ -1,0 +1,16 @@
+# built or downloaded (see README)
+llama.cpp/
+models/
+gguf/
+data/wiki/
+data/wiki_index/
+data/rag2/
+# 500 MB, published as a GitHub release asset
+adapter/adapter_model.safetensors
+# run outputs
+logs/
+logs_rebuild.txt
+new/
+regrade/
+out/
+__pycache__/

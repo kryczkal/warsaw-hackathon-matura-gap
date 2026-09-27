@@ -1,0 +1,242 @@
+[
+ {
+  "id": "1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: B\nPrzykładowe uzasadnienie:\nW źródle 1. znajduje się informacja o tym, że formalną oznaką zjednoczenia państwa było przyjęcie przez faraona [Narmera] korony Górnego i Dolnego Egiptu. Na reliefie B jest przedstawiona symboliczna scena koronacji faraona podwójną koroną.",
+  "correct_answer": "Rozstrzygnięcie: B\nUzasadnienie: Według źródła 1. zwieńczeniem zjednoczenia Egiptu było przyjęcie przez Narmera korony Górnego i Dolnego Egiptu, a relief B przedstawia symboliczną scenę koronacji faraona podwójną koroną Górnego i Dolnego Egiptu."
+ },
+ {
+  "id": "2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: Nie\nPrzykładowe uzasadnienie:\nTreść źródła 1. wskazuje na to, że mowa wygłoszona została po dokonaniu podbojów przez Aleksandra Macedońskiego. Natomiast źródło 2. przedstawia dawną monarchię Aleksandra, podzieloną po jego śmierci między diadochów [wodzów, dowódców armii macedońskiej], na co wskazuje istnienie państw powstałych w wyniku rozpadu państwa Aleksandra (np. państwa Seleukidów).",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Mowa ze źródła 1. została wygłoszona przez Aleksandra Macedońskiego po podboju państwa perskiego (Jonia, Lidia, Egipt, Syria, Babilon i Suza należą w niej do jednego władcy), natomiast mapa w źródle 2. przedstawia sytuację po śmierci Aleksandra, gdy jego monarchia była już podzielona między diadochów na państwa Ptolemeuszy, Seleukidów i Attalidów."
+ },
+ {
+  "id": "3.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za odpowiedź poprawną.\n0 pkt – za odpowiedź błędną albo brak odpowiedzi.\nRozwiązanie (klucz): Oktawian August",
+  "correct_answer": "Oktawian August"
+ },
+ {
+  "id": "3.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za podanie dwóch prawidłowych nazw urzędów.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): konsul\ntrybun ludowy",
+  "correct_answer": "konsul, trybun ludowy"
+ },
+ {
+  "id": "4",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za sformułowanie jednego argumentu potwierdzającego tezę.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozwiązaniem greckim w zaprezentowanej budowli jest obecność np. kolumn, portyku czy tympanonu; natomiast rzymską inspirację stanowi np. kopuła, obecność konstrukcji opartej na łuku.",
+  "correct_answer": "Budowla łączy rozwiązania greckie – kolumnowy portyk zwieńczony trójkątnym tympanonem – z rozwiązaniem rzymskim, jakim jest kopuła (konstrukcja oparta na łuku), wzorowana na rzymskim Panteonie."
+ },
+ {
+  "id": "5.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: Nie\nPrzykładowe uzasadnienie:\nPapież [Urban II] wzywał do udzielenia pomocy chrześcijanom zamieszkującym na Wschodzie, którzy podbici zostali przez Turków i Arabów [wyznawców islamu], a następnie byli przez nich prześladowani. Skutkiem tego apelu było rozpoczęcie krucjat [wypraw krzyżowych rycerstwa europejskiego] do Palestyny [Ziemi Świętej, na Bliski Wschód]. Mapa przedstawia Europę z zaznaczonymi kierunkami wypraw Wikingów [Normanów], m.in. na Islandię, Wyspy Brytyjskie, wyspy na Morzu Śródziemnym, na Ruś, a nie wyprawy krzyżowe.",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Papież Urban II wzywał w źródle 1. do pomocy chrześcijanom na Wschodzie podbitym przez Turków i Arabów, co zapoczątkowało wyprawy krzyżowe do Ziemi Świętej, natomiast mapa w źródle 2. przedstawia trasy wypraw wikingów (Normanów) – m.in. na Islandię, Wyspy Brytyjskie, Ruś i wyspy Morza Śródziemnego – a nie krucjat."
+ },
+ {
+  "id": "5.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za podanie prawidłowej nazwy.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Bizancjum / Cesarstwo Bizantyjskie / Cesarstwo wschodniorzymskie",
+  "correct_answer": "Cesarstwo Bizantyjskie (Bizancjum)"
+ },
+ {
+  "id": "6",
+  "max_points": 2,
+  "scoring_rule": "2 pkt – za pełne wyjaśnienie struktury (z dostrzeżeniem jej hierarchiczności lub religijnego porządku) zawierające odwołanie do trzech elementów graficznych.\n1 pkt – za częściowe wyjaśnienie struktury zawierające odwołanie do trzech elementów graficznych.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Na ilustracji zostało ukazane społeczeństwo stanowe złożone z trzech stanów: duchownego, rycerskiego i chłopskiego. Duchowieństwo symbolizują postacie w strojach kapłańskich z pastorałem, grupę szlachetnie urodzonych postacie z koronami i mieczami, natomiast stan chłopski [pracujący, trzeci] symbolizują postacie z motykami uprawiające ziemię. Stan rycerski i duchowny znajdują się wyżej w hierarchii. Nad całością góruje Chrystus.",
+  "correct_answer": "Drzeworyt przedstawia średniowieczne społeczeństwo stanowe złożone z trzech stanów: duchowieństwo symbolizują postacie w strojach kapłańskich z pastorałem i krzyżem (napis „Ty módl się”), rycerstwo – postacie w koronach z mieczami (napis „Ty ochraniaj”), a chłopów – postacie uprawiające ziemię motykami (napis „A ty pracuj”). Struktura ta jest hierarchiczna i ma religijne uzasadnienie: duchowni i rycerze umieszczeni są wyżej niż pracujący chłopi, a nad całością góruje Chrystus, co wyraża przekonanie o boskim pochodzeniu porządku społecznego."
+ },
+ {
+  "id": "7",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z obu fragmentów kroniki.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: A\nPrzykładowe uzasadnienie: We fragmencie A jest mowa o wyprawie Henryka V [króla Niemiec], który interweniował zbrojnie w Polsce w celu przywrócenia władzy Zbigniewa – brata Bolesława Krzywoustego. Fragment B odnosi się do sporu króla Bolesława Śmiałego z biskupem Stanisławem, który miał miejsce kilkadziesiąt lat wcześniej.",
+  "correct_answer": "Rozstrzygnięcie: A\nUzasadnienie: Fragment A opisuje wyprawę króla niemieckiego Henryka V na Polskę (1109 r.), który żądał od Bolesława Krzywoustego przyjęcia z powrotem jego brata Zbigniewa i płacenia trybutu, natomiast fragment B dotyczy wcześniejszego o kilkadziesiąt lat sporu Bolesława Śmiałego z biskupem Stanisławem (1079 r.), zakończonego wypędzeniem króla z Polski."
+ },
+ {
+  "id": "8.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za podanie prawidłowej nazwy dokumentu.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): [konstytucja] nihil novi / przywilej radomski",
+  "correct_answer": "konstytucja Nihil novi"
+ },
+ {
+  "id": "8.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: Tak\nPrzykładowe uzasadnienia:\n• Ilustracja przedstawia trzy stany sejmujące. Widać króla na tronie, siedzących senatorów oraz stojących posłów w trakcie obrad sejmu. W tekście wymienione są te same stany sejmujące.\n• Ilustracja przedstawia wspólne obrady senatu oraz izby poselskiej, o czym jest mowa także w źródle 1.",
+  "correct_answer": "Rozstrzygnięcie: Tak\nUzasadnienie: Ilustracja przedstawia wspólne obrady trzech stanów sejmujących – króla na tronie (A), senatorów duchownych i świeckich (B–G) oraz szlachtę-posłów (H) – a w źródle 1. mowa o tym, że nowe prawa mogą być stanowione przez króla tylko za wspólną zgodą senatorów i posłów ziemskich."
+ },
+ {
+  "id": "9",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do napisu i wybranego elementu graficznego drzeworytu.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: Nie\nPrzykładowe uzasadnienie:\nIlustracja i napis przedstawiają papieża jako jeden z filarów państwa polskiego. Tymczasem arianie (bracia polscy) odrzucali autorytet papieża.",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Według napisu państwo opiera się na barkach papieża i króla, a na drzeworycie papież w tiarze klęczy obok króla jako jedna z dwóch podpór Korony – Orzechowski uznawał więc autorytet papieża, który bracia polscy (arianie) całkowicie odrzucali."
+ },
+ {
+  "id": "10",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za odpowiedź poprawną.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): A",
+  "correct_answer": "A"
+ },
+ {
+  "id": "11.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za poprawne przyporządkowanie dwóch postaci.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Fragment A – Karol IX\nFragment B – Henryk IV",
+  "correct_answer": "Fragment A – Karol IX\nFragment B – Henryk IV"
+ },
+ {
+  "id": "11.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za poprawne wyjaśnienie.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Słowa te oznaczały, że Henryk IV zmienił wyznanie z kalwińskiego na katolickie, co umożliwiło mu objęcie tronu francuskiego.",
+  "correct_answer": "Sformułowanie oznacza, że dla objęcia tronu francuskiego i opanowania Paryża Henryk IV Burbon był gotów zmienić wyznanie – przeszedł z kalwinizmu na katolicyzm, co umożliwiło mu zdobycie władzy we Francji."
+ },
+ {
+  "id": "12.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za poprawne rozpoznanie władcy.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Jan [II] Kazimierz [Waza]",
+  "correct_answer": "Jan Kazimierz"
+ },
+ {
+  "id": "12.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za poprawne podanie pojęcia.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): abdykacja / zrzeczenie się tronu",
+  "correct_answer": "abdykacja"
+ },
+ {
+  "id": "12.3",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do jednej widocznej cechy stylu.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: barok\nPrzykładowe uzasadnienie:\n• dynamizm przedstawienia\n• przepych / bogactwo dekoracji\n• uwidocznione emocje postaci",
+  "correct_answer": "Rozstrzygnięcie: barok\nUzasadnienie: Pomnik cechuje typowy dla baroku dynamizm przedstawienia – postacie ukazano w ruchu i z uwidocznionymi emocjami, a całość ma bogatą, przepyszną dekorację."
+ },
+ {
+  "id": "13",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za podanie poprawnej nazwy wydarzenia wraz z uzasadnieniem zawierającym odwołanie do treści rysunku.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Nazwa wydarzenia:\nŚcięcie Karola (I) Stuarta / obalenie monarchii w Anglii / rewolucja angielska / restauracja monarchii\nPrzykładowe uzasadnienia:\n• Na ściętym pniu drzewa umieszczono datę ścięcia króla [Karola I Stuarta], która oznacza też symboliczne obalenie monarchii w Anglii.\n• O obaleniu monarchii / o republikańskim ustroju Anglii świadczą leżące na ziemi insygnia królewskie: połamane berło i porzucona korona.\n• Ze ściętego pnia wyrasta nowa gałąź, na której umieszczono koronę, która wskazuje na powrót do władzy dynastii Stuartów / na restaurację monarchii w Anglii.",
+  "correct_answer": "Wydarzenie: ścięcie Karola I Stuarta (obalenie monarchii w Anglii w czasie rewolucji angielskiej)\nUzasadnienie: Na ściętym pniu drzewa umieszczono datę 30 stycznia 1649 r. – dzień egzekucji króla Karola I, a na ziemi leżą porzucona korona i połamane berło, co symbolizuje obalenie monarchii."
+ },
+ {
+  "id": "14.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: Nie\nPrzykładowe uzasadnienie: W tekście jest mowa o przejściu Niemna i zaniesieniu wojny na terytorium Rosji, czyli o wyprawie wojennej z 1812 r. Natomiast na mapie zaznaczono przebieg wojny z 1809 r., o czym świadczy bitwa pod Raszynem oraz działania militarne na terenie zaboru austriackiego (np. Lublin, Kraków, Przemyśl, Lwów).",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Rozkaz Napoleona ze źródła 1. zapowiada przejście Niemna i przeniesienie wojny na obszar Rosji, czyli wyprawę na Rosję w 1812 r., natomiast mapa przedstawia wojnę z Austrią z 1809 r. – zaznaczono na niej bitwę pod Raszynem oraz działania na terenie zaboru austriackiego (Lublin, Kraków, Przemyśl, Lwów)."
+ },
+ {
+  "id": "14.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za odpowiedź poprawną.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): C",
+  "correct_answer": "C"
+ },
+ {
+  "id": "15.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za odpowiedź poprawną.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): powstanie listopadowe",
+  "correct_answer": "powstanie listopadowe"
+ },
+ {
+  "id": "15.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do treści obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: A.\nPrzykładowe uzasadnienie: W źródle 1. i pieśni w wersji A zawarta jest krytyczna ocena działań Chłopickiego – świadczą o tym określenia wskazujące na opieszałość generała. [Pieśń w wersji B stanowi pochwałę działań Chłopickiego.]",
+  "correct_answer": "Rozstrzygnięcie: A\nUzasadnienie: Zarówno autor pamiętnika ze źródła 1. (Chłopicki „wzdrygał się objąć dowództwo”, „klął powstanie”), jak i wersja A pieśni („Sześć tygodni siedział, dumał, drzymał”, „Oczekiwał, co Car powie”, „Puścił z kraju wroga”) oceniają Chłopickiego krytycznie, wytykając mu opieszałość i brak wiary w powstanie, podczas gdy wersja B go wychwala."
+ },
+ {
+  "id": "16.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do treści obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: Tak.\nPrzykładowe uzasadnienie: W źródle 2. jest mowa o sprzeciwie USA wobec jakiejkolwiek ingerencji europejskiej w sprawy obu Ameryk. Źródło 1. potwierdza ten przekaz, gdyż np. na ilustracji przedstawiono wuja Sama (karykatura prezydenta Stanów Zjednoczonych), który broni przejścia przedstawicielom państw europejskich na kontynent amerykański.",
+  "correct_answer": "Rozstrzygnięcie: Tak\nUzasadnienie: W orędziu ze źródła 2. prezydent zapowiada sprzeciw USA wobec wszelkiej interwencji mocarstw europejskich na kontynentach amerykańskich (doktryna Monroe’a), a na karykaturze Wuj Sam, symbolizujący USA, pod hasłami „Ameryka dla Amerykanów” i „Zakaz wstępu” zagradza przedstawicielom państw europejskich (Portugalii, Francji, Hiszpanii, Niemiec) drogę do Ameryki."
+ },
+ {
+  "id": "16.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za odpowiedź poprawną.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): B",
+  "correct_answer": "B"
+ },
+ {
+  "id": "17.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe wyjaśnienie zawierające odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rysunek odnosi się do klęski Francji w bitwie pod Sedanem w 1870 roku w trakcie wojny francusko-pruskiej, co umożliwiło finalizację procesu zjednoczenia Niemiec. Tekst przedstawia okoliczności koronacji Wilhelma I na cesarza Niemiec w 1871 r., co było możliwe po zwycięskiej wojnie z Francją.",
+  "correct_answer": "Rysunek ze źródła 2. nawiązuje do kapitulacji armii francuskiej pod Sedanem w 1870 r., która przesądziła o zwycięstwie Prus w wojnie francusko-pruskiej i umożliwiła dokończenie zjednoczenia Niemiec. Skutkiem tego zwycięstwa była ceremonia opisana w źródle 1. – proklamowanie 18 stycznia 1871 r. króla pruskiego Wilhelma I cesarzem Niemiec."
+ },
+ {
+  "id": "17.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za podanie prawidłowej nazwy dynastii.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Hohenzollernowie",
+  "correct_answer": "Hohenzollernowie"
+ },
+ {
+  "id": "18",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do dwóch elementów graficznych plakatu.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: ententa\nPrzykładowe uzasadnienie: Bestia, wywołująca negatywne skojarzenia, ma na głowie pikielhaubę oraz czapkę austriacką – uosabia zatem państwa centralne. Walczą z nim żołnierze w mundurach państw ententy.",
+  "correct_answer": "Rozstrzygnięcie: ententa\nUzasadnienie: Bestia wywołująca negatywne skojarzenia ma na głowie niemiecką pikielhaubę i austriacką czapkę, więc uosabia państwa centralne, a walczą z nią żołnierze w mundurach państw ententy."
+ },
+ {
+  "id": "19.1",
+  "max_points": 2,
+  "scoring_rule": "2 pkt – za odpowiedź zawierającą trzy prawidłowe wskazania.\n1 pkt – za odpowiedź zawierającą dwa prawidłowe wskazania.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): 1–F\n2–P\n3–P",
+  "correct_answer": "1: F\n2: P\n3: P"
+ },
+ {
+  "id": "19.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za odpowiedź poprawną.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): [Lucjan] Żeligowski",
+  "correct_answer": "Lucjan Żeligowski"
+ },
+ {
+  "id": "20.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do wybranego źródła.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: Źródło 2\nPrzykładowe uzasadnienie: Głównym założeniem Nowej Ekonomicznej Polityki było częściowe wprowadzenie [przywrócenie] rynkowych mechanizmów gospodarczych, m.in. pozwolenie na prowadzenie małych prywatnych przedsięwzięć, w tym prywatny handel i usługi, co opisano w cytowanym fragmencie pamiętnika gubernatora Kronsztadu.",
+  "correct_answer": "Rozstrzygnięcie: Źródło 2.\nUzasadnienie: W źródle 2. opisano legalne rynki z prywatnym handlem żywnością i usługami (obiady, szewc, fryzjer) oraz zniesienie nacjonalizacji drobnych warsztatów zatrudniających do 20 osób, czyli częściowe przywrócenie mechanizmów rynkowych i prywatnej przedsiębiorczości, co było istotą NEP-u."
+ },
+ {
+  "id": "20.2",
+  "max_points": 2,
+  "scoring_rule": "2 pkt – za odpowiedź zawierającą trzy prawidłowe wskazania.\n1 pkt – za odpowiedź zawierającą dwa prawidłowe wskazania.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): 1–F\n2–P\n3–F",
+  "correct_answer": "1: F\n2: P\n3: F"
+ },
+ {
+  "id": "21",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe uzasadnienie.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): • Prezentowany kadr przedstawia uporządkowany w równe szeregi tłum ludzi (zwolenników Hitlera), co miało symbolizować potęgę i jedność narodu niemieckiego.\n• W centralnym punkcie kadru znajdują się ogromne flagi ze swastyką – symbolem nazizmu, to wokół tego symbolu koncentruje się uwaga zgromadzonych. Scena jest przykładem gloryfikacji nazizmu.\n• Tytuł filmu „Triumf woli” jest nacechowany emocjonalnie, ma budzić pozytywne skojarzenia.",
+  "correct_answer": "Kadr ukazuje ogromny tłum zwolenników Hitlera ustawiony w równe, uporządkowane szeregi, co miało symbolizować potęgę, dyscyplinę i jedność narodu niemieckiego skupionego wokół NSDAP i tym samym gloryfikować nazizm."
+ },
+ {
+  "id": "22.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za podanie prawidłowej daty dziennej.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): 1 sierpnia [1944 r.]",
+  "correct_answer": "1 sierpnia 1944 r."
+ },
+ {
+  "id": "22.2",
+  "max_points": 2,
+  "scoring_rule": "2 pkt – za podanie dwóch podobieństw.\n1 pkt – za podanie jednego podobieństwa.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Podobieństwo A:\n• Obaj autorzy dostrzegają w powstaniu warszawskim źródło zimnowojennego podziału (konfliktu) między ZSRR a mocarstwami zachodnimi.\n• Według obu autorów stosunek do powstania warszawskiego ujawnił faktyczne intencje Stalina i ZSRR, co miało wpływ na zmianę oceny sowieckiej polityki.\nPodobieństwo B:\n• Obaj autorzy zauważają, że pamięć o tragicznych doświadczeniach powstania warszawskiego wpłynęła na to, że Polacy nie zdecydowali się na tę formę walki (powstanie zbrojne) w czasach komunizmu.\n• Według obu autorów idea „Solidarności” i jej pokojowego charakteru wyrosła z inspirującej refleksji nad powstaniem warszawskim.",
+  "correct_answer": "Podobieństwo A: Obaj autorzy uważają, że postawa Stalina wobec powstania warszawskiego ujawniła Zachodowi prawdziwe zamiary ZSRR i uczyniła powstanie jednym z pierwszych kroków ku zimnej wojnie między ZSRR a mocarstwami zachodnimi.\nPodobieństwo B: Obaj autorzy twierdzą, że pamięć o tragedii powstania powstrzymywała Polaków przed rozlewem krwi w czasach PRL (np. w 1956 r. i podczas kolejnych przełomów) i zainspirowała pokojowy charakter „Solidarności”."
+ },
+ {
+  "id": "23.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za poprawne wymienienie dwóch metod.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): • propaganda / dyskredytowanie przeciwników politycznych\n• fałszowanie wyników głosowania",
+  "correct_answer": "• propaganda dyskredytująca przeciwników politycznych (plakat przedstawiający senat jako hamulec postępu społecznego)\n• fałszowanie wyników głosowania (oficjalne wyniki referendum znacznie zawyżone w stosunku do rzeczywistych)"
+ },
+ {
+  "id": "23.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: Nie\nPrzykładowe uzasadnienia:\n• Pytanie, które otrzymało najwięcej głosów na „tak”, dotyczyło akceptacji nowej zachodniej i północnej granicy Polski a nie kwestii senatu – wg źródła 2. rzeczywisty odsetek odpowiedzi pozytywnych wyniósł 67%.\n• Plakat odnosi się do kwestii zniesienia senatu, co spotkało się z najmniejszym poziomem akceptacji w głosowaniu (27%).",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Plakat ze źródła 1. dotyczy pytania o zniesienie senatu (pytanie 1. referendum z 1946 r.), które według rzeczywistych wyników ze źródła 2. uzyskało najmniej odpowiedzi „tak” – 27%, a najwięcej (67%) otrzymało pytanie 3. o akceptację zachodniej i północnej granicy Polski."
+ },
+ {
+  "id": "24",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: Nie\nPrzykładowe uzasadnienie:\nNa mapie ukazano rozmieszczenie wojsk Układu Warszawskiego po inwazji na Czechosłowację [operacja „Dunaj” w 1968 roku]. Tekst z kolei informuje o pacyfikacji przez wojska sowieckie powstania węgierskiego [w 1956 roku], o czym świadczą np. nazwiska polityków uczestniczących w wydarzeniach tam opisanych (N. Chruszczow, I. Nagy), informacja o terminie interwencji, skala ofiar.",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Mapa ze źródła 1. przedstawia rozmieszczenie wojsk Układu Warszawskiego podczas inwazji na Czechosłowację w 1968 r., natomiast tekst ze źródła 2. dotyczy stłumienia przez wojska radzieckie powstania węgierskiego w 1956 r. – świadczą o tym postacie Chruszczowa i Imre Nagya, ogłoszenie wystąpienia Węgier z Układu Warszawskiego i atak na Budapeszt 4 listopada."
+ },
+ {
+  "id": "25",
+  "max_points": 3,
+  "scoring_rule": "3 pkt – za prawidłowe wyjaśnienie przesłania rysunku wraz z interpretacją dwóch elementów graficznych oraz przedstawienie kontekstu historycznego.\n2 pkt – za prawidłowe wyjaśnienie przesłania rysunku wraz z interpretacją dwóch elementów graficznych bez przedstawienia kontekstu historycznego ALBO za prawidłowe wyjaśnienie przesłania rysunku wraz z interpretacją jednego elementu graficznego oraz przedstawienie kontekstu historycznego.\n1 pkt – za prawidłowe wyjaśnienie przesłania rysunku wraz z interpretacją jednego elementu graficznego bez przedstawienia kontekstu historycznego.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.\nRozwiązanie (klucz): • Przesłaniem rysunku jest krytyczna ocena polityki Jaruzelskiego (polskich komunistów). Na rysunku przedstawiono Wojciecha Jaruzelskiego zamiatającego pod dywan nazwę „Solidarność”, co sugeruje nieudolną próbę rozwiązania kryzysu społecznego w Polsce. Stanowi to nawiązanie do wprowadzenia w 1981 r. stanu wojennego, w wyniku którego zdelegalizowano NSZZ Solidarność. Stan wojenny nie rozwiązuje problemów zniewolonej Polski, lecz jest próbą ich zamaskowania (zamiecenia pod dywan).\n• Przesłaniem rysunku jest opinia o braku samodzielności przywódcy PRL – Wojciecha Jaruzelskiego. Został on przedstawiony jako marionetka sterowana z zewnątrz (w domyśle przez Związek Sowiecki) – wprowadzenie stanu wojennego w 1981 r. było działaniem inspirowanym z Moskwy.",
+  "correct_answer": "Przesłaniem rysunku jest krytyczna ocena polityki gen. Wojciecha Jaruzelskiego, który 13 grudnia 1981 r. wprowadził w Polsce stan wojenny i zdelegalizował NSZZ „Solidarność”. Jaruzelski zamiata miotłą pod dywan napis „Solidarność”, co oznacza próbę siłowego ukrycia problemów i zdławienia opozycji zamiast rozwiązania kryzysu społecznego, a sznurki, na których porusza się jak marionetka, pokazują, że nie był samodzielny i działał z inspiracji Moskwy (ZSRR)."
+ },
+ {
+  "id": "26",
+  "max_points": 15,
+  "scoring_rule": "Zasady oceniania (0–15 pkt): A. Narracja historyczna (0–12 pkt) + B. Spójność wypowiedzi (0–3 pkt).\nA. NARRACJA HISTORYCZNA (funkcjonalność wykorzystania wiedzy historycznej / poziom argumentacji / liczba punktów):\nWiedza historyczna wykorzystana w pełni funkcjonalnie w odniesieniu do trzech elementów tematu:\n• bogata argumentacja w odniesieniu do trzech elementów tematu – 12 pkt\n• bogata argumentacja w odniesieniu do dwóch elementów tematu ORAZ zadowalająca argumentacja w odniesieniu do trzeciego – 11 pkt\n• bogata argumentacja do jednego elementu tematu ORAZ zadowalająca argumentacja w odniesieniu do dwóch pozostałych – 10 pkt\n• zadowalająca argumentacja w odniesieniu do trzech elementów tematu – 9 pkt\n• bogata argumentacja w odniesieniu do dwóch elementów tematu ORAZ powierzchowna argumentacja w odniesieniu do trzeciego – 9 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu, zadowalająca argumentacja w odniesieniu do jednego z dwóch pozostałych elementów ORAZ powierzchowna argumentacja w odniesieniu do trzeciego elementu tematu – 8 pkt\nWiedza historyczna wykorzystana w pełni funkcjonalnie w odniesieniu do dwóch elementów tematu (trzeci element zrealizowany częściowo funkcjonalnie ALBO niezrealizowany):\n• bogata argumentacja w odniesieniu do dwóch elementów tematu – 8 pkt\n• zadowalająca argumentacja w odniesieniu do dwóch elementów tematu ORAZ powierzchowna argumentacja w odniesieniu do trzeciego – 7 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu ORAZ zadowalająca argumentacja w odniesieniu do jednego z dwóch pozostałych – 7 pkt\n• zadowalająca argumentacja w odniesieniu do dwóch elementów tematu – 6 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do dwóch pozostałych – 6 pkt\nWiedza historyczna wykorzystana w pełni funkcjonalnie w odniesieniu do jednego elementu tematu (pozostałe elementy zrealizowane częściowo funkcjonalnie ALBO niezrealizowane):\n• zadowalająca argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do dwóch pozostałych – 5 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do jednego z dwóch pozostałych – 5 pkt\n• zadowalająca argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do jednego z pozostałych – 4 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu – 4 pkt\n• zadowalająca argumentacja w odniesieniu do jednego elementu tematu – 3 pkt\nWiedza historyczna nie została wykorzystana w pełni funkcjonalnie w odniesieniu do żadnego elementu tematu:\n• powierzchowna argumentacja w odniesieniu do trzech elementów tematu – 3 pkt\n• powierzchowna argumentacja w odniesieniu do dwóch elementów tematu – 2 pkt\n• powierzchowna argumentacja w odniesieniu do jednego elementu tematu – 1 pkt\nNiefunkcjonalne wykorzystanie wiedzy historycznej w odniesieniu do całej wypowiedzi ALBO brak wypowiedzi – 0 pkt\nPoprawność merytoryczna: za błędy merytoryczne będą odejmowane punkty od ogólnej liczby punktów zdobytych przez zdającego w tym kryterium (bez punktów ujemnych): 1–2 błędy merytoryczne (-1 pkt); 3–5 błędów merytorycznych (-2 pkt); powyżej 5 błędów merytorycznych (-3 pkt).\nB. SPÓJNOŚĆ WYPOWIEDZI:\nWypowiedź spełnia kryterium minimalnej liczby 300 słów ORAZ jest spójna (logicznie uporządkowana). – 3 pkt\nWypowiedź spełnia kryterium minimalnej liczby 300 słów ORAZ występują w niej drobne zaburzenia w zakresie spójności (logicznego uporządkowania). – 2 pkt\nWypowiedź spełnia kryterium minimalnej liczby 300 słów ORAZ występują w niej istotne zaburzenia w zakresie spójności (logicznego uporządkowania). – 1 pkt\nWypowiedź nie spełnia kryterium minimalnej liczby 300 słów I/LUB jest nieuporządkowana, stanowi zbiór w znacznej mierze niezależnych elementów. – 0 pkt\nDODATKOWE INFORMACJE DLA EGZAMINATORÓW (KRYTERIUM A – NARRACJA HISTORYCZNA)\n1. Funkcjonalność wykorzystania wiedzy historycznej ocenia się w odniesieniu do tematu pracy. Zdający musi zająć stanowisko wobec zaprezentowanej tezy oraz je przekonująco uzasadnić, wykorzystując w swojej argumentacji właściwie dobraną wiedzę historyczną z zakresu trzech elementów/obszarów wskazanych w temacie. a) W pełni funkcjonalne wykorzystanie wiedzy historycznej oznacza przywołanie w wypracowaniu: o adekwatnych (trafnie dobranych, wyselekcjonowanych) do tematu oraz zajętego stanowiska faktów, postaci, procesów historycznych o właściwej dla problematyki określonej tematem wypracowania terminologii historycznej które ilustrują tok rozumowania zdającego oraz przekonująco wspierają jego argumentację na poziomie co najmniej zadowalającym. b) Częściowo funkcjonalne wykorzystanie wiedzy historycznej ma miejsce wtedy, gdy zdający przedstawił powierzchowną argumentację LUB/I np. w części zasadniczej pracy, obok trafnej argumentacji, w charakterze argumentów/przykładów wykorzystane są treści, które nie są spójne np. ze stanowiskiem zdającego wyrażonym we wstępie albo nie odnoszą się do tezy zawartej w temacie pracy lub nie są związane z tematem. c) Wiedza historyczna nie jest wykorzystana funkcjonalnie, jeżeli zdający bezrefleksyjnie referuje/odtwarza wszystko, co pamięta z danego problemu, ale nie odnosi się do tezy zawartej w temacie LUB jego argumentacja jest sprzeczna z zajętym stanowiskiem.\n2. Argumentacja to udowodnienie tezy/opinii/stanowiska przedstawionego przez zdającego za pomocą argumentów. a) Bogata argumentacja – to argumentacja rzeczowa, pogłębiona, poparta trafnie dobraną i szczegółową faktografią oraz adekwatną do omawianych zagadnień terminologią; szeroka, stanowiąca – jako całość – wnikliwą analizę problemu sformułowanego w temacie. Za bogatą argumentację w odniesieniu do jednego elementu tematu przyznajemy 4 pkt. b) Zadowalająca argumentacja – to argumentacja rzeczowa, poparta prawidłową faktografią i terminologią, zawiera elementy refleksji / głębszego namysłu nad problemem. Za zadowalającą argumentację w odniesieniu do jednego elementu tematu przyznajemy 3 pkt. c) Powierzchowna argumentacja – to argumentacja oparta na uogólnieniach, niewnikająca w istotę rzeczy, mało dokładna, w większości wsparta podstawową faktografią i terminologią, czasami niepoparta przykładami. Za powierzchowną argumentację w odniesieniu do jednego elementu tematu przyznajemy 1 pkt.\n3. Błędy merytoryczne to ewidentne pomyłki zdających w zakresie: a) chronologii – błędne sytuowanie w czasie wydarzeń, procesów, postaci historycznych (np. W połowie XV wieku epidemia dżumy, zwana czarną śmiercią, zakończyła się śmiercią około 1/3 liczby mieszkańców Europy.; Pod koniec II wojny światowej głównym przeciwnikiem komunistów w walce o władzę w Chinach był przywódca Kuomintangu – Sun Jat-sen; Kulminacyjnym momentem wojny secesyjnej była bitwa pod Yorktown). b) terminologii – błędne stosowanie pojęć historycznych (np. W okresie średniowiecza w Europie dominował ustrój monarchii despotycznych; Innym, obok jakobinów, klubem politycznym rewolucyjnego parlamentu we Francji, była żakeria; W wielu monarchiach europejskich, w zakresie dziedziczenia tronu, obowiązywała zasada predestynacji). c) ukazywania związków przyczynowo-skutkowych – przypisywanie wydarzeniom historycznym niewłaściwych przyczyn lub skutków (np. Bezpośrednią przyczyną tzw. nocy listopadowej 1830 roku była branka i polityka Aleksandra Wielopolskiego; Na mocy pokoju kończącego Wielką Wojnę z Zakonem Krzyżackim Polska odzyskała Pomorze Gdańskie wraz z Warmią, które to ziemie od tej pory nosiły nazwę Prus Królewskich.)\nDODATKOWE INFORMACJE DLA EGZAMINATORÓW (KRYTERIUM B – SPÓJNOŚĆ WYPOWIEDZI)\n1. Jeżeli praca wypowiedź liczy mniej niż 300 słów, wówczas w tym kryterium przyznajemy 0 pkt.\n2. Wypowiedź jest spójna, jeżeli elementy, które ją tworzą (wstęp – część zasadnicza (rozwinięcie) – zakończenie), stanowią logiczną i uporządkowaną całość.\n3. Wywód jest uporządkowany, jeśli każdy kolejny akapit wynika z poprzedniego, a np. przestawienie akapitów zaburzyłoby tok rozumowania przyjęty przez zdającego.\n4. Zaburzenia w spójności mogą wynikać m.in. z: a) błędów logicznych, w tym np. zbyt daleko idących uogólnień, nieuzasadnionych wniosków (np. wnioski w zakończeniu pracy nie wynikają z przeprowadzonego rozumowania), sprzecznych stwierdzeń b) odstępstw od podporządkowania wywodu myśli przewodniej, np. wypracowanie zawiera niefunkcjonalne fragmenty stanowiące niezwiązane z tematem wątki poboczne c) zredagowaniu wstępu lub rozwinięcia, lub zakończenia, lub akapitu, które nie pasują logicznie do pozostałej części wypracowania, nie łączą się logicznie z poprzedzającą je częścią / poprzedzającym je akapitem d) rozwijania jednocześnie więcej niż jednego wątku („zazębiania” się wątków) e) pomijania pośrednich ogniw rozumowania, tzw. skróty myślowe f) wprowadzenie treści nieistotnych, zbędnych dla pracy, bez związku/pozostających w wątpliwym związku z tematem/wywodem g) wprowadzania dygresji stosowanych niefunkcjonalnie h) przerywania toku myślenia zbędnymi zdaniami.\n5. Błędy w spójności wewnątrz akapitów oznaczają np. nielogiczne połączenia zdań w akapicie oraz brak zastosowania w nim wskaźników zespolenia.\n6. Błędy w spójności między akapitami oznaczają nielogiczne powiązanie danego akapitu z poprzednim lub poprzednimi akapitami oraz brak zastosowania wskaźników zespolenia między akapitami.",
+  "correct_answer": null
+ }
+]

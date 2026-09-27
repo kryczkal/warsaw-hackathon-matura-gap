@@ -1,0 +1,228 @@
+{
+ "total": 7,
+ "max": 60,
+ "items": [
+  {
+   "id": "1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (list of numbers), no answer."
+  },
+  {
+   "id": "2.1",
+   "points": 0,
+   "max": 1,
+   "why": "Gives Fragments 1, 2 and 3 alternately – contradictory, no single decision."
+  },
+  {
+   "id": "2.2",
+   "points": 0,
+   "max": 1,
+   "why": "Only meaningless numbering, no assignment."
+  },
+  {
+   "id": "3",
+   "points": 0,
+   "max": 2,
+   "why": "P/F/P – only statement 3 correct."
+  },
+  {
+   "id": "4.1",
+   "points": 1,
+   "max": 1,
+   "why": "Hanza given (rest is empty numbering, no contradiction)."
+  },
+  {
+   "id": "4.2",
+   "points": 0,
+   "max": 1,
+   "why": "Alternates Tak and Nie – contradictory."
+  },
+  {
+   "id": "5.1",
+   "points": 1,
+   "max": 1,
+   "why": "Wojna stuletnia (1337–1453)."
+  },
+  {
+   "id": "5.2",
+   "points": 0,
+   "max": 1,
+   "why": "No answer (repeated \"[Zadanie n]\")."
+  },
+  {
+   "id": "5.3",
+   "points": 0,
+   "max": 1,
+   "why": "Copies prompt/sources, no explanation."
+  },
+  {
+   "id": "6",
+   "points": 0,
+   "max": 2,
+   "why": "Copies sources, no similarity or difference given."
+  },
+  {
+   "id": "7",
+   "points": 0,
+   "max": 2,
+   "why": "Repeats prompt, no styles given."
+  },
+  {
+   "id": "8",
+   "points": 0,
+   "max": 2,
+   "why": "\"W kościele katolickim nie ma reformacji\" repeated – not a valid argument."
+  },
+  {
+   "id": "9.1",
+   "points": 1,
+   "max": 1,
+   "why": "Zygmunt III Waza."
+  },
+  {
+   "id": "9.2",
+   "points": 0,
+   "max": 1,
+   "why": "No answer (list of numbers)."
+  },
+  {
+   "id": "9.3",
+   "points": 0,
+   "max": 1,
+   "why": "States death vs abdication but then contradicts itself (Jan Kazimierz \"had a son/daughter and son\")."
+  },
+  {
+   "id": "10",
+   "points": 2,
+   "max": 2,
+   "why": "1-P, 2-F, 3-P consistently – all correct."
+  },
+  {
+   "id": "11.1",
+   "points": 0,
+   "max": 1,
+   "why": "Only empty numbering."
+  },
+  {
+   "id": "11.2",
+   "points": 0,
+   "max": 1,
+   "why": "No choice made (list of numbers)."
+  },
+  {
+   "id": "12",
+   "points": 0,
+   "max": 1,
+   "why": "Wrong decision (Tak)."
+  },
+  {
+   "id": "13.1",
+   "points": 0,
+   "max": 1,
+   "why": "Plan B and Ostrołęka, but no reference to any information on plan B – only restates source 2."
+  },
+  {
+   "id": "13.2",
+   "points": 0,
+   "max": 1,
+   "why": "Marks several options (B, C, D)."
+  },
+  {
+   "id": "14.1",
+   "points": 0,
+   "max": 1,
+   "why": "Garbage text in Georgian, no name."
+  },
+  {
+   "id": "14.2",
+   "points": 0,
+   "max": 1,
+   "why": "No answer."
+  },
+  {
+   "id": "15",
+   "points": 0,
+   "max": 1,
+   "why": "Repeats prompt, no style."
+  },
+  {
+   "id": "16.1",
+   "points": 1,
+   "max": 1,
+   "why": "Tak, with references to both song (tyrants, new order) and manifesto (bourgeoisie, revolution)."
+  },
+  {
+   "id": "16.2",
+   "points": 0,
+   "max": 1,
+   "why": "Only copies sources, no author named."
+  },
+  {
+   "id": "17",
+   "points": 0,
+   "max": 1,
+   "why": "Copies sources, no decision."
+  },
+  {
+   "id": "18",
+   "points": 0,
+   "max": 3,
+   "why": "Only dashes, no interpretation."
+  },
+  {
+   "id": "19",
+   "points": 0,
+   "max": 2,
+   "why": "P/F/P – all three wrong."
+  },
+  {
+   "id": "20",
+   "points": 0,
+   "max": 1,
+   "why": "Wrong decision (Tak; Saar plebiscite was not a breach)."
+  },
+  {
+   "id": "21",
+   "points": 0,
+   "max": 2,
+   "why": "1-A, 2-A – both wrong."
+  },
+  {
+   "id": "22",
+   "points": 0,
+   "max": 1,
+   "why": "Only empty numbering."
+  },
+  {
+   "id": "23",
+   "points": 1,
+   "max": 1,
+   "why": "Communist authorities banned information on Stalinist crimes incl. Katyń."
+  },
+  {
+   "id": "24",
+   "points": 0,
+   "max": 1,
+   "why": "Garbage (\"model_n\"), no answer."
+  },
+  {
+   "id": "25.1",
+   "points": 0,
+   "max": 1,
+   "why": "Only empty numbering."
+  },
+  {
+   "id": "25.2",
+   "points": 0,
+   "max": 1,
+   "why": "Jaruzelski named, but explanation mixes stan wojenny with wrong \"stan wyjątkowy/stan wojny\", no explanation."
+  },
+  {
+   "id": "26",
+   "points": 0,
+   "max": 15,
+   "why": "No essay – only repeats the topics (0 narration, 0 coherence)."
+  }
+ ]
+}

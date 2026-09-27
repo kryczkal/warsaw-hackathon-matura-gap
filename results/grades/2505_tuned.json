@@ -1,0 +1,234 @@
+{
+ "total": 35,
+ "max": 60,
+ "items": [
+  {
+   "id": "1.1",
+   "points": 0,
+   "max": 1,
+   "why": "Invents a vessel description in source 2 and misdescribes C as mummy-shaped."
+  },
+  {
+   "id": "1.2",
+   "points": 1,
+   "max": 1,
+   "why": "Afterlife belief requires preserving the body, hence mummification."
+  },
+  {
+   "id": "2",
+   "points": 0,
+   "max": 1,
+   "why": "After, but does not date the events of source 1 (1st c. AD)."
+  },
+  {
+   "id": "3.1",
+   "points": 1,
+   "max": 1,
+   "why": "Aqueduct."
+  },
+  {
+   "id": "3.2",
+   "points": 0,
+   "max": 1,
+   "why": "Cites a dome with oculus and barrel vault not visible in the photo."
+  },
+  {
+   "id": "4",
+   "points": 2,
+   "max": 2,
+   "why": "All three correct."
+  },
+  {
+   "id": "5.1",
+   "points": 1,
+   "max": 1,
+   "why": "Correct."
+  },
+  {
+   "id": "5.2",
+   "points": 1,
+   "max": 1,
+   "why": "Wojciech, relics from Gniezno (side errors do not affect the core)."
+  },
+  {
+   "id": "6",
+   "points": 0,
+   "max": 1,
+   "why": "Wrong area (2 instead of 3)."
+  },
+  {
+   "id": "7.1",
+   "points": 0,
+   "max": 1,
+   "why": "Yes, but claims the map shows Grunwald as a battle of this war."
+  },
+  {
+   "id": "7.2",
+   "points": 1,
+   "max": 1,
+   "why": "C."
+  },
+  {
+   "id": "8",
+   "points": 2,
+   "max": 2,
+   "why": "Gothic with pointed windows, Baroque with the tower dome."
+  },
+  {
+   "id": "9.1",
+   "points": 1,
+   "max": 1,
+   "why": "A."
+  },
+  {
+   "id": "9.2",
+   "points": 1,
+   "max": 1,
+   "why": "Warsaw Confederation."
+  },
+  {
+   "id": "9.3",
+   "points": 0,
+   "max": 1,
+   "why": "Also gives the wrong name noc swietojanska."
+  },
+  {
+   "id": "10",
+   "points": 0,
+   "max": 1,
+   "why": "Both wrong."
+  },
+  {
+   "id": "11.1",
+   "points": 2,
+   "max": 2,
+   "why": "USA, France, Poland."
+  },
+  {
+   "id": "11.2",
+   "points": 0,
+   "max": 1,
+   "why": "A, but identifies it as the 1776 Declaration."
+  },
+  {
+   "id": "12",
+   "points": 0,
+   "max": 1,
+   "why": "Wrong decision."
+  },
+  {
+   "id": "13",
+   "points": 1,
+   "max": 1,
+   "why": "Machines threatened jobs and livelihoods."
+  },
+  {
+   "id": "14.1",
+   "points": 0,
+   "max": 1,
+   "why": "A, but claims January Uprising."
+  },
+  {
+   "id": "14.2",
+   "points": 2,
+   "max": 2,
+   "why": "P, F, P."
+  },
+  {
+   "id": "15.1",
+   "points": 1,
+   "max": 1,
+   "why": "P, F."
+  },
+  {
+   "id": "15.2",
+   "points": 1,
+   "max": 1,
+   "why": "Opponents: the Confederates imposed the embargo."
+  },
+  {
+   "id": "16.1",
+   "points": 0,
+   "max": 1,
+   "why": "Wrong decision (B)."
+  },
+  {
+   "id": "16.2",
+   "points": 1,
+   "max": 1,
+   "why": "No: 1905, monarchy fell in February 1917."
+  },
+  {
+   "id": "17.1",
+   "points": 1,
+   "max": 1,
+   "why": "Suffragettes."
+  },
+  {
+   "id": "17.2",
+   "points": 0,
+   "max": 1,
+   "why": "B, wrong."
+  },
+  {
+   "id": "18",
+   "points": 2,
+   "max": 3,
+   "why": "1871 scene, defeated Germany and title interpreted, 1919 defeat context; misreadings, no Versailles treaty."
+  },
+  {
+   "id": "19",
+   "points": 2,
+   "max": 2,
+   "why": "Narutowicz and May Coup."
+  },
+  {
+   "id": "20",
+   "points": 1,
+   "max": 1,
+   "why": "Nazism and communism."
+  },
+  {
+   "id": "21.1",
+   "points": 0,
+   "max": 1,
+   "why": "Wrong (Kwiatkowski)."
+  },
+  {
+   "id": "21.2",
+   "points": 0,
+   "max": 1,
+   "why": "Wrong source (2)."
+  },
+  {
+   "id": "22",
+   "points": 0,
+   "max": 1,
+   "why": "Wrong decision (yes)."
+  },
+  {
+   "id": "23",
+   "points": 1,
+   "max": 1,
+   "why": "Socrealism with a feature."
+  },
+  {
+   "id": "24.1",
+   "points": 1,
+   "max": 2,
+   "why": "Similarity misreads source 1 as calling it a great success; difference ok."
+  },
+  {
+   "id": "24.2",
+   "points": 1,
+   "max": 1,
+   "why": "Romania."
+  },
+  {
+   "id": "25",
+   "points": 7,
+   "max": 15,
+   "why": "Topic 2: solid politics, weaker culture, many errors (Panama 1893, Suez 1896, Ford 1892, NYT 1897), muddled conclusion; A 8-3=5, B 2."
+  }
+ ]
+}

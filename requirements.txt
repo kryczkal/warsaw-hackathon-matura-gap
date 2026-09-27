@@ -1,0 +1,5 @@
+# CPU side (retrieval, scoring). Python 3.13
+bm25s==0.3.11
+numpy==2.5.3
+pyarrow==25.0.1
+huggingface_hub==1.33.0

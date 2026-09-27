@@ -1,0 +1,250 @@
+{
+ "total": 2,
+ "max": 60,
+ "format_example_copies": [
+  "20.2"
+ ],
+ "total_excluding_format_copies": 2,
+ "items": [
+  {
+   "id": "1",
+   "points": 0,
+   "max": 1,
+   "why": "Alternates 'A' and 'B' ~15 times each with identical generic justification; contradictory, no single answer."
+  },
+  {
+   "id": "2",
+   "points": 0,
+   "max": 1,
+   "why": "Only echoes item header '2. 0–1'; no answer."
+  },
+  {
+   "id": "3.1",
+   "points": 0,
+   "max": 1,
+   "why": "'Augustus' alone, then echoes the question ~95x; gives only the cognomen, not imię + przydomek (Oktawian August) - incomplete."
+  },
+  {
+   "id": "3.2",
+   "points": 0,
+   "max": 1,
+   "why": "Only the word 'Ustawienia' repeated; no offices named."
+  },
+  {
+   "id": "4",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes item number/score and Georgian-script junk; no argument."
+  },
+  {
+   "id": "5.1",
+   "points": 0,
+   "max": 1,
+   "why": "Malformed JSON fragment with a long digit string; no answer."
+  },
+  {
+   "id": "5.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes task 5.1 text and page headers; no state named (Bizancjum missing)."
+  },
+  {
+   "id": "6",
+   "points": 0,
+   "max": 2,
+   "why": "Only item numbers and page footers; no explanation."
+  },
+  {
+   "id": "7",
+   "points": 0,
+   "max": 1,
+   "why": "Chooses B (wrong; key A) with an irrelevant Jagiełło justification."
+  },
+  {
+   "id": "8.1",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes the question ~97x; no document name."
+  },
+  {
+   "id": "8.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes both sources and the question; no decision or justification."
+  },
+  {
+   "id": "9",
+   "points": 0,
+   "max": 1,
+   "why": "Georgian-script filler plus echoed source/question; no decision."
+  },
+  {
+   "id": "10",
+   "points": 0,
+   "max": 1,
+   "why": "Lists B, C, then D x1022; contradictory and D is wrong (key A)."
+  },
+  {
+   "id": "11.1",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes tasks 11-12 and a runaway list of fake item numbers; no rulers assigned."
+  },
+  {
+   "id": "11.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes 11.1 header and a dotted answer line; no explanation."
+  },
+  {
+   "id": "12.1",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes questions and fake item numbers 12.5-12.52; no ruler named."
+  },
+  {
+   "id": "12.2",
+   "points": 0,
+   "max": 1,
+   "why": "Only item numbers/scores and echoed questions; no term given."
+  },
+  {
+   "id": "12.3",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes questions 12.1-12.3 repeatedly; no decision."
+  },
+  {
+   "id": "13",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes question and task 14 source text; no event named."
+  },
+  {
+   "id": "14.1",
+   "points": 0,
+   "max": 1,
+   "why": "Only item numbers/score headers; no answer."
+  },
+  {
+   "id": "14.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes 14.1 question and headers; no option chosen."
+  },
+  {
+   "id": "15.1",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes both sources and the question; never names the uprising."
+  },
+  {
+   "id": "15.2",
+   "points": 1,
+   "max": 1,
+   "why": "After echoing the sources, clearly answers 'Wersja A' with correct justification: both source 1 and version A criticise Chłopicki (quotes cited)."
+  },
+  {
+   "id": "16.1",
+   "points": 0,
+   "max": 1,
+   "why": "Only item headers; no answer."
+  },
+  {
+   "id": "16.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes 16.1 question and a dotted line; no option chosen."
+  },
+  {
+   "id": "17.1",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes tasks 16.2/17 text; no causal explanation."
+  },
+  {
+   "id": "17.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes sources and invents fake items 18.x; no dynasty named."
+  },
+  {
+   "id": "18",
+   "points": 0,
+   "max": 1,
+   "why": "Only item headers; no answer."
+  },
+  {
+   "id": "19.1",
+   "points": 0,
+   "max": 2,
+   "why": "Only item headers '19.1 0–1–2 19.2 0–1'; no P/F given."
+  },
+  {
+   "id": "19.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes task 19 text and the blank P/F grid; no general named."
+  },
+  {
+   "id": "20.1",
+   "points": 0,
+   "max": 1,
+   "why": "Chooses source 1 (wrong; key source 2), repeated 82x."
+  },
+  {
+   "id": "20.2",
+   "points": 0,
+   "max": 2,
+   "why": "Answers 1-P, 2-F, 3-P, which copies the answer_format example verbatim; all three wrong (key F/P/F)."
+  },
+  {
+   "id": "21",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes task 21/22 text and invented tasks; no argument."
+  },
+  {
+   "id": "22.1",
+   "points": 1,
+   "max": 1,
+   "why": "Consistently gives 1 sierpnia 1944 r. (correct), despite looping numbering noise."
+  },
+  {
+   "id": "22.2",
+   "points": 0,
+   "max": 2,
+   "why": "Only the word 'model' repeated; no similarities."
+  },
+  {
+   "id": "23.1",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes task 23 sources/questions; no methods named."
+  },
+  {
+   "id": "23.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes task 23 text and empty bullets; no decision."
+  },
+  {
+   "id": "24",
+   "points": 0,
+   "max": 1,
+   "why": "Only header '24. 0–1'; no answer."
+  },
+  {
+   "id": "25",
+   "points": 0,
+   "max": 3,
+   "why": "Echoes question then emoji filler; no explanation."
+  },
+  {
+   "id": "26",
+   "points": 0,
+   "max": 15,
+   "why": "Topic 1: a few basic facts (768-814, coronation in 800), then one sentence looped; no stance on the thesis and no argument on any aspect (A=0); effectively under 300 distinct words and disorganised (B=0)."
+  }
+ ]
+}

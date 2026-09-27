@@ -1,0 +1,236 @@
+[
+ {
+  "id": "1",
+  "max_points": 2,
+  "scoring_rule": "2 pkt – podanie dwóch poprawnych nazw cywilizacji oraz ich lokalizacji.\n1 pkt – podanie jednej poprawnej nazwy cywilizacji oraz jej lokalizacji ALBO za podanie dwóch poprawnych nazw cywilizacji.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Fragment A – starożytny Egipt / Egipt – numer na mapie: 1\nFragment B – starożytne Chiny / Chiny – numer na mapie: 4",
+  "correct_answer": "Fragment A: starożytny Egipt | 1\nFragment B: starożytne Chiny | 4"
+ },
+ {
+  "id": "2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): FF",
+  "correct_answer": "1: F\n2: F"
+ },
+ {
+  "id": "3.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z obu źródeł\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: nie\nPrzykładowe uzasadnienie: Na planie przedstawiono bitwę [pod Akcjum], którą stoczyły ze\nsobą wojska Oktawiana i Marka Antoniusza. W tekście opisano wojnę domową Cezara\nz Pompejuszem, na co wskazują m.in. informacje o przekroczeniu Rubikonu oraz\no decydującej bitwie w Tracji.",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Na planie (źródło 1.) przedstawiono bitwę pod Akcjum, którą stoczyły ze sobą wojska Oktawiana i Marka Antoniusza. Natomiast źródło 2. opisuje wcześniejszą wojnę domową Cezara z Pompejuszem – wskazuje na to przekroczenie Rubikonu („Kości zostały rzucone”) oraz informacja, że decydująca bitwa tej wojny rozegrała się w Tracji."
+ },
+ {
+  "id": "3.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): D",
+  "correct_answer": "D"
+ },
+ {
+  "id": "4.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z obu źródeł\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: nie\nPrzykładowe uzasadnienia:\n• W tekście opisano zdobycie Konstantynopola przez Turków, o czym świadczą m.in.\ninformacja o Hagia Sophia, informacja że obroną dowodził cesarz a oblegającymi byli\nTurcy. Plan przedstawia natomiast miasto położone w Palestynie [Akkę] – a więc nie\nKonstantynopol.\n• W tekście opisano zdobycie Konstantynopola przez Turków, o czym świadczą m.in.\ninformacja o Hagia Sophia, że obroną dowodził cesarz a oblegającymi byli Turcy. Plan\nprzedstawia inne miasto – świadczą o tym informacje o budynkach należących\ndo zakonów krzyżowych.",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Źródło 1. opisuje zdobycie Konstantynopola przez Turków sułtana Mehmeda II w 1453 r. – świadczą o tym wzmianka o obronie miasta przez cesarza i o zamianie Hagia Sophia w meczet. Plan ze źródła 2. przedstawia natomiast miasto położone w Palestynie (Akkę), z budynkami należącymi do zakonów krzyżowych, a więc nie Konstantynopol."
+ },
+ {
+  "id": "4.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne uzasadnienie zwierające odwołanie do informacji z planu.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Przykładowa odpowiedź\nNa planie miasta zaznaczono dzielnice, których nazwy pochodzą od włoskich republik\nkupieckich specjalizujących się w handlu z Lewantem (Wschodem) – np. Genui, Pizy,\nWenecji.",
+  "correct_answer": "Na planie miasta zaznaczono dzielnice, których nazwy pochodzą od włoskich republik kupieckich – Genui, Pizy i Wenecji – specjalizujących się w handlu z Lewantem (Wschodem), co świadczy o udziale miasta w handlu lewantyńskim."
+ },
+ {
+  "id": "5.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – podanie dwóch poprawnych imion.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Wystawca – Jan\nZasadźca – Marcin",
+  "correct_answer": "Wystawca: Jan\nZasadźca: Marcin"
+ },
+ {
+  "id": "5.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – wymienienie wszystkich obowiązków z zakresu renty naturalnej.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): 2 miary pszenicy, 4 miary żyta, 6 miar owsa / zboże",
+  "correct_answer": "Mieszkańcy Radlina byli zobowiązani co roku w dzień św. Marcina oddawać z każdego łanu małego 2 miary pszenicy, 4 miary żyta i 6 miar owsa."
+ },
+ {
+  "id": "6.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – podanie dwóch poprawnych nazw dynastii.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): A – Rurykowicze\nB – Andegawenowie / Anjou",
+  "correct_answer": "Fragment A – Rurykowicze\nFragment B – Andegawenowie"
+ },
+ {
+  "id": "6.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z wyjaśnieniem okoliczności.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: B\nPrzykładowe wyjaśnienie: Wspomniany w źródle Karol Robert zawarł układ z królem Polski\nKazimierzem Wielkim, na mocy którego – po bezpotomnej śmierci polskiego władcy – tron\npolski przejęła dynastia Andegawenów.",
+  "correct_answer": "Rozstrzygnięcie: B\nUzasadnienie: Wspomniany we fragmencie B Karol Robert zawarł z Kazimierzem Wielkim układ o sukcesji (Wyszehrad), na mocy którego po bezpotomnej śmierci Kazimierza w 1370 r. tron polski objęła dynastia Andegawenów – królem Polski został syn Karola Roberta, Ludwik Węgierski."
+ },
+ {
+  "id": "7",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – podanie poprawnej nazwy wraz z wyjaśnieniem.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Nazwa: rekonkwista / wyprawy krzyżowe\nPrzykładowe wyjaśnienie: Na mapie zilustrowano proces odzyskiwania przez chrześcijan\nziem na Półwyspie Pirenejskim / Iberyjskim, opanowanych wcześniej przez Arabów.",
+  "correct_answer": "Nazwa: rekonkwista\nWyjaśnienie: Był to proces stopniowego odzyskiwania przez państwa chrześcijańskie ziem na Półwyspie Iberyjskim, opanowanych wcześniej (od VIII w.) przez Arabów, zakończony zdobyciem Grenady w 1492 r."
+ },
+ {
+  "id": "8",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zwierającym odwołanie do informacji z wybranego źródła.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: A\nPrzykładowe uzasadnienia:\n• Szlachta zaściankowa była to szlachta zubożała, ale zachowująca przynależne swojemu\nstanowi prawa polityczne (udział w sejmie, sejmikach ziemskich, elekcja króla).\n• Szlachtę zaściankową opisano we fragmencie A, ponieważ we fragmencie B\nscharakteryzowano szlachtę „gołotę”, która była w praktyce pozbawiona praw\npolitycznych].",
+  "correct_answer": "Rozstrzygnięcie: A\nUzasadnienie: We fragmencie A opisano szlachtę, która miała niewielkie gospodarstwa i sama pracowała na roli, mieszkając w odrębnych wsiach (zaściankach), a mimo ubóstwa zachowywała pełne prawa polityczne – udział w sejmikach, sejmie i elekcji króla; tak właśnie wyglądała szlachta zaściankowa."
+ },
+ {
+  "id": "9",
+  "max_points": 2,
+  "scoring_rule": "2 pkt – podanie jednego podobieństwa i jednej różnicy.\n1 pkt – podanie jednego podobieństwa albo jednej różnicy.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Przykładowa odpowiedź\nPodobieństwo:\n• W obu tekstach jest mowa o tym, że malarstwo sakralne jest dopuszczalne.\n• Zarówno Luter jak i Kalwin przyznają prymat słowa nad obrazem.\nRóżnica:\n• Luter dostrzega pozytywną funkcję malarstwa sakralnego w teorii i praktyce. Dla Kalwina\nobrazy religijne powinny być w praktyce wyeliminowane z przestrzeni sakralnej.",
+  "correct_answer": "Podobieństwo: Zarówno Luter, jak i Kalwin (przynajmniej w teorii) dopuszczali obraz narracyjny, przedstawiający historie biblijne, i obaj przyznawali prymat Słowa nad obrazem.\nRóżnica: Luter dostrzegał pozytywną rolę obrazów w rozpamiętywaniu i rozumieniu Biblii i akceptował je w teorii i praktyce, a Kalwin w praktyce dążył do wyeliminowania wszelkich obrazów z przestrzeni sakralnej, uznając zamykanie Boga w skończonej formie za bluźnierstwo."
+ },
+ {
+  "id": "10.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawna odpowiedź.\n0 pkt – niepoprawna odpowiedź albo brak odpowiedzi.\nRozwiązanie (klucz): C",
+  "correct_answer": "C"
+ },
+ {
+  "id": "10.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): FP",
+  "correct_answer": "1: F\n2: P"
+ },
+ {
+  "id": "11",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – podanie poprawnego uzasadnienia.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Przykładowa odpowiedź\nZ danych zamieszczonych w tabeli wynika, że głównymi towarami eksportowanymi\nz Rzeczypospolitej były produkty naturalne (zboże, drewno), natomiast importowano przede\nwszystkim towary wytworzone (tkaniny). Potwierdza to istniejący w XVI–XVII wieku podział\nEuropy na dwie strefy gospodarcze [dualizm] – na wschodzie dominowało rolnictwo, na\nzachodzie – handel i wytwórstwo.",
+  "correct_answer": "Z tabeli wynika, że przez Gdańsk i Elbląg eksportowano głównie surowce i produkty rolne (zboże – ok. 70–77% eksportu, drewno), a importowano przede wszystkim towary wytworzone (tkaniny – ponad 50% importu). Potwierdza to dualizm gospodarczy Europy w XVI–XVII w.: wschód (w tym Rzeczpospolita) specjalizował się w rolnictwie i eksporcie zboża, a zachód w handlu i wytwórczości."
+ },
+ {
+  "id": "12.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): Gajusz Juliusz Cezar / Cezar",
+  "correct_answer": "Gajusz Juliusz Cezar"
+ },
+ {
+  "id": "12.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z obu źródeł.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: nie\nPrzykładowe uzasadnienie: Tekst odnosi się do bitwy pod Wiedniem, na co wskazuje m.in.\ndatacja listu, nadawca (Jan, król Polski). Na planie przedstawiono bitwę pod Chocimiem, na\nco wskazuje min. nazwa rzeki (Dniestr), lokalizacja walczących stron.",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: List (źródło 1.) dotyczy bitwy pod Wiedniem z 12 września 1683 r. – wskazuje na to jego data (13 września 1683 r.), nadawca (Jan III Sobieski, król Polski) i wzmianka o obozie wezyra pod Miastem. Plan (źródło 2.) przedstawia natomiast bitwę pod Chocimiem, na co wskazuje nazwa rzeki Dniestr i rozmieszczenie walczących stron."
+ },
+ {
+  "id": "13",
+  "max_points": 2,
+  "scoring_rule": "2 pkt – dwa poprawne wskazania wraz z uzasadnieniem zawierającym odwołania do treści znaczków.\n1 pkt – jedno poprawne wskazanie wraz z uzasadnieniem zawierającym odwołanie do treści znaczka.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): 1. Znaczek upamiętniający wojnę o niepodległość Stanów Zjednoczonych: C\nPrzykładowe uzasadnienie:\nNa znaczku widać charakterystyczne umundurowanie dla epoki oraz datację nawiązującą\ndo rocznicy ogłoszenia Deklaracji Niepodległości.\n2. Znaczek upamiętniający wojnę secesyjną: A\nPrzykładowe uzasadnienie:\nNa znaczku widać charakterystyczne umundurowanie dla okresu wojny secesyjnej oraz\nnazwę bitwy wraz z datą nawiązującą do rocznicy stoczenia tej bitwy.",
+  "correct_answer": "1. Znaczek upamiętniający wojnę o niepodległość Stanów Zjednoczonych: C\nUzasadnienie: Na znaczku widać żołnierzy w umundurowaniu charakterystycznym dla XVIII wieku (m.in. czerwone mundury brytyjskie) i flagę amerykańską, a pieczęć z datą 1976 i nazwą Filadelfii nawiązuje do 200. rocznicy ogłoszenia Deklaracji Niepodległości (1776).\n2. Znaczek upamiętniający wojnę secesyjną: A\nUzasadnienie: Na znaczku widać walczących żołnierzy w mundurach z okresu wojny secesyjnej oraz napis „Gettysburg 1963”, czyli nazwę bitwy z 1863 r. i datę jej 100. rocznicy."
+ },
+ {
+  "id": "14.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): Konstytucja / konstytucja Królestwa Polskiego",
+  "correct_answer": "Konstytucja Królestwa Polskiego z 1815 roku"
+ },
+ {
+  "id": "14.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z obu źródeł.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: tak\nPrzykładowe uzasadnienie: Tekst informuje o następstwach politycznych upadku powstania\nlistopadowego – wprowadzenie w miejsce liberalnej konstytucji Statutu organicznego, który\nograniczał autonomię Królestwa Polskiego. W źródle 2. przedstawiono monetę z 1835 roku\nz godłem rosyjskim oraz z napisami w języku rosyjskim – co było przejawem rusyfikacji.",
+  "correct_answer": "Rozstrzygnięcie: Tak\nUzasadnienie: Tekst (źródło 1.) opisuje następstwa upadku powstania listopadowego – zastąpienie liberalnej konstytucji Statutem organicznym (1832), który likwidował odrębność Królestwa Polskiego. Moneta ze źródła 2., wybita w 1835 r., ma rosyjskie godło (dwugłowy orzeł) i napisy w języku rosyjskim oraz nominał w rublach i złotych, co jest przejawem rusyfikacji i wcielania Królestwa do Rosji po upadku powstania."
+ },
+ {
+  "id": "14.3",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): FF",
+  "correct_answer": "1: F\n2: F"
+ },
+ {
+  "id": "15.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z obu źródeł.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: tak\nPrzykładowe uzasadnienie: Dokument zacytowany w źródle 2., to tzw. depesza emska –\nbyła to pruska prowokacja, która doprowadziła do wybuchu wojny francusko-pruskiej [w 1870\nroku]. Do tej wojny nawiązuje rysunek ze źródła 1., gdzie Prusak (pikielhauba) uderza\nFrancuza (Napoleon III).",
+  "correct_answer": "Rozstrzygnięcie: Tak\nUzasadnienie: Źródło 2. to tzw. depesza emska – pruska prowokacja (Bismarcka), której publikacja doprowadziła do wybuchu wojny francusko-pruskiej w 1870 r. Do tej wojny nawiązuje rysunek ze źródła 1., na którym Prusak w pikielhaubie uderza Francuza – Napoleona III."
+ },
+ {
+  "id": "15.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): C",
+  "correct_answer": "C"
+ },
+ {
+  "id": "16.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – podanie poprawnego uzasadnienia.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Przykładowa odpowiedź\nNa planie zostały zaznaczone domy robotnicze a także budynki użyteczności publicznej –\nnp. szkoła, stołówka – świadczy to o trosce właściciela fabryki o dobrostan robotników.",
+  "correct_answer": "Na planie zaznaczono domy robotnicze (famuły) oraz budynki użyteczności publicznej przeznaczone dla pracowników – szkołę, stołówkę i sklep, szpital św. Anny i remizę strażacką – co świadczy o trosce właściciela fabryki o warunki życia i dobrostan robotników."
+ },
+ {
+  "id": "16.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): Łódź",
+  "correct_answer": "Łódź"
+ },
+ {
+  "id": "17",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: nie\nPrzykładowe uzasadnienie: Źródło 1. odnosi się do sytuacji w zaborze austriackim w okresie\ntzw. autonomii, o czym świadczą m.in. nazwy instytucji, informacja o języku polskim jako\njęzyku urzędowym. Źródło 2. informuje o sytuacji w zaborze pruskim, gdzie język polski był\nzakazany nawet na lekcjach religii.",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Źródło 1. dotyczy zaboru austriackiego w okresie autonomii galicyjskiej – świadczą o tym nazwy instytucji „c.k.” oraz wprowadzenie języka polskiego jako urzędowego (rozporządzenie językowe z 1869 r.). Źródło 2. opisuje zabór pruski, gdzie w ramach germanizacji w 1901 r. wprowadzono naukę religii po niemiecku i karano dzieci chłostą."
+ },
+ {
+  "id": "18.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – podanie jednego poprawnego nazwiska.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): [Ignacy Jan] Paderewski / [Roman] Dmowski",
+  "correct_answer": "Roman Dmowski"
+ },
+ {
+  "id": "18.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: nie\nPrzykładowe uzasadnienie: Znaczek odnosi się do traktatu wersalskiego, o czym informuje\nm.in. napis. Z kolei w źródle 2. przytoczono postanowienia konferencji Wielkiej Trójki\nz Poczdamu, o czym świadczą informacje o nabytkach terytorialnych Polski kosztem\nNiemiec.",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Znaczek ze źródła 1. odnosi się do traktatu wersalskiego z 1919 r., o czym informuje umieszczony na nim napis i wizerunki polskich delegatów (Dmowskiego i Paderewskiego). Źródło 2. to natomiast fragment postanowień konferencji Wielkiej Trójki w Poczdamie z 1945 r. – świadczą o tym informacje o przekazaniu Polsce ziem niemieckich na wschód od Odry i obszaru dawnego Wolnego Miasta Gdańska."
+ },
+ {
+  "id": "19.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: nie\nPrzykładowe uzasadnienie: Źródło 1. odnosi się do przewrotu majowego [1926] – świadczy\no tym m.in. informacja o zdobyciu Belwederu, data wydania czasopisma. Źródło 2. opisuje\nwydarzenia wcześniejsze – okoliczności zaprzysiężenia na urząd Prezydenta\nRzeczypospolitej Gabriela Narutowicza [1922].",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Źródło 1. („Robotnik” z 14 maja 1926 r. z nagłówkiem „Belweder zdobyty!”) dotyczy przewrotu majowego z 1926 r. Źródło 2. opisuje wydarzenia wcześniejsze – okoliczności zaprzysiężenia prezydenta Gabriela Narutowicza w grudniu 1922 r., więc sytuacja ze źródła 1. nie mogła być ich przyczyną."
+ },
+ {
+  "id": "19.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): FP",
+  "correct_answer": "1: F\n2: P"
+ },
+ {
+  "id": "20",
+  "max_points": 2,
+  "scoring_rule": "2 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym dwa poprawne argumenty.\n1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym jeden poprawny argument.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: z lat 30. XX wieku\nPrzykładowe argumenty:\n• Postać wytrzepująca dywan z napisem „czerwona Hiszpania” z pięcioramiennych gwiazd,\nto gen. Franco. Jest to nawiązanie do wojny domowej w Hiszpanii z lat 30. XX wieku.\n• Postać z emblematami swastyki i charakterystycznym wąsikiem, to Hitler. „Zasysa” do\nodkurzacza czapkę z napisem „Austria” To komentarz do włączenia Austrii do Niemiec\nw 1938 roku.\n• Postać w czapce z pięcioramienną gwiazdą, która kopie grób na „starych bolszewików”,\nto Stalin. Scena jest komentarzem do czystek politycznych w ZSRR z lat 30. XX wieku.",
+  "correct_answer": "Rozstrzygnięcie: z lat 30. XX wieku\nUzasadnienie:\n• Postać trzepiąca dywan z napisem „czerwona Hiszpania”, z którego wypadają pięcioramienne gwiazdy, to gen. Franco – to nawiązanie do wojny domowej w Hiszpanii (1936–1939).\n• Postać ze swastyką i charakterystycznym wąsikiem to Hitler, który „zasysa” odkurzaczem czapkę z napisem „Austria” – to komentarz do Anschlussu, czyli włączenia Austrii do Niemiec w 1938 r."
+ },
+ {
+  "id": "21",
+  "max_points": 2,
+  "scoring_rule": "2 pkt – podanie trzech poprawnych nazwisk.\n1 pkt – podanie dwóch poprawnych nazwisk.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): A – [Charles] de Gaulle\nB – [Stanisław] Mikołajczyk\nC – [Franklin Delano] Roosevelt",
+  "correct_answer": "A – Charles de Gaulle\nB – Stanisław Mikołajczyk\nC – Franklin Delano Roosevelt"
+ },
+ {
+  "id": "22",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z wykresu i własnej wiedzy.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: nie\nPrzykładowe uzasadnienia:\n• Do planu Marshalla nie przystąpiły kraje należące do sowieckiej strefy wpływów m.in.\nPolska, Czechosłowacja, a wykres uwzględnia je w przyznanej pomocy.\n• Plan Marshalla był adresowany do krajów europejskich, a wykres uwzględnia kraje\npozauropejskie (Filipiny, Etiopia).",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Na wykresie uwzględniono pomoc dla Polski (481,2 mln dolarów), Czechosłowacji, Jugosławii czy Ukrainy i Białorusi, a kraje sowieckiej strefy wpływów – pod naciskiem ZSRR – odrzuciły plan Marshalla w 1947 r. Ponadto plan Marshalla był adresowany do państw europejskich, a wykres obejmuje kraje pozaeuropejskie, np. Chiny, Filipiny i Etiopię."
+ },
+ {
+  "id": "23.1",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: nie\nPrzykładowe uzasadnienie: W orędziu zapowiedziano ideę pojednania polsko-niemieckiego.\nAutor rysunku ironicznie interpretuje sens zawartych w orędziu słów, przypisując stronie\nniemieckiej złe / agresywne intencje.",
+  "correct_answer": "Rozstrzygnięcie: Nie\nUzasadnienie: Orędzie biskupów polskich do biskupów niemieckich z 1965 r. (źródło 1.) wzywało do dialogu i pojednania polsko-niemieckiego w duchu miłości i pokoju. Autor rysunku w „Szpilkach” (źródło 2.) ironicznie interpretuje słowa orędzia („wybaczać i prosić o wybaczenie”), przypisując stronie niemieckiej złe, agresywne intencje – rysunek wpisuje się więc w propagandową kampanię władz PRL przeciw orędziu."
+ },
+ {
+  "id": "23.2",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie (klucz): [Stefan] Wyszyński",
+  "correct_answer": "Stefan Wyszyński"
+ },
+ {
+  "id": "24",
+  "max_points": 3,
+  "scoring_rule": "3 pkt – poprawne wyjaśnienie wymowy rysunku wraz z interpretacją dwóch elementów graficznych oraz przedstawienie kontekstu historycznego.\n2 pkt – poprawne wyjaśnienie wymowy rysunku wraz z interpretacją dwóch elementów graficznych bez przedstawienia kontekstu historycznego ALBO za prawidłowe wyjaśnienie wymowy rysunku wraz z interpretacją jednego elementu graficznego oraz przedstawienie kontekstu historycznego.\n1 pkt – poprawne wyjaśnienie wymowy rysunku wraz z interpretacją jednego elementu graficznego bez przedstawienia kontekstu historycznego.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Przykładowa odpowiedź\nRysunek jest krytycznym / negatywnym komentarzem do polityki Związku Sowieckiego\nwzględem dążeń wolnościowych Czechosłowacji. Postać w sowieckim mundurze [Breżniew]\ngasi za pomocą wojskowego hełmu płomień świecy, która jest podpisana „czeski duch”. Jest\nto symboliczne przedstawienie wojskowej interwencji m.in. wojsk sowieckich\nw Czechosłowacji w 1968 roku, które stłumiły tzw. praską wiosnę (ruch wolnościowy).",
+  "correct_answer": "Rysunek jest krytycznym komentarzem do polityki Związku Sowieckiego wobec dążeń wolnościowych Czechosłowacji. Postać w sowieckim mundurze z czerwoną gwiazdą (Leonid Breżniew) gasi wojskowym hełmem płomień świecy podpisanej „czeski duch” (Czech spirit) – hełm symbolizuje użycie siły militarnej, a świeca czechosłowackie dążenia do wolności i reform. Jest to symboliczne przedstawienie interwencji wojsk Układu Warszawskiego, głównie sowieckich, w Czechosłowacji w sierpniu 1968 r., która stłumiła Praską Wiosnę – reformy Aleksandra Dubčeka („socjalizm z ludzką twarzą”)."
+ },
+ {
+  "id": "25",
+  "max_points": 1,
+  "scoring_rule": "1 pkt – poprawne rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do źródła.\n0 pkt – odpowiedź niespełniająca wymagań na 1 pkt albo brak odpowiedzi.\nRozwiązanie (klucz): Rozstrzygnięcie: przed\nPrzykładowe uzasadnienie: Ulotka zawiera informację, że wydano ją z okazji pierwszej\nrocznicy porozumień społecznych (porozumień sierpniowych). Oznacza to, że powstała\nw sierpniu 1981 roku, czyli przed wprowadzeniem stanu wojennego w grudniu 1981 roku.",
+  "correct_answer": "Rozstrzygnięcie: Przed wprowadzeniem stanu wojennego\nUzasadnienie: Ulotka z napisami „Sierpień 1980–1981” i „1 rocznica porozumień społecznych” została wydana z okazji pierwszej rocznicy porozumień sierpniowych, a więc w sierpniu 1981 r., czyli przed wprowadzeniem stanu wojennego 13 grudnia 1981 r."
+ },
+ {
+  "id": "26",
+  "max_points": 15,
+  "scoring_rule": "Zasady oceniania (0–15 pkt): A. Narracja historyczna (0–12 pkt) + B. Spójność wypowiedzi (0–3 pkt).\nA. NARRACJA HISTORYCZNA (funkcjonalność wykorzystania wiedzy historycznej / poziom argumentacji wypowiedzi):\nWiedza historyczna wykorzystana w pełni funkcjonalnie w odniesieniu do trzech elementów tematu:\n• bogata argumentacja w odniesieniu do trzech elementów tematu – 12 pkt\n• bogata argumentacja w odniesieniu do dwóch elementów tematu ORAZ zadowalająca argumentacja w odniesieniu do trzeciego – 11 pkt\n• bogata argumentacja do jednego elementu tematu ORAZ zadowalająca argumentacja w odniesieniu do dwóch pozostałych – 10 pkt\n• zadowalająca argumentacja w odniesieniu do trzech elementów tematu – 9 pkt\nWiedza historyczna wykorzystana w pełni funkcjonalnie w odniesieniu do dwóch elementów tematu (trzeci element zrealizowany częściowo funkcjonalnie ALBO niezrealizowany):\n• bogata argumentacja w odniesieniu do dwóch elementów tematu ORAZ powierzchowna argumentacja w odniesieniu do trzeciego – 9 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu, zadowalająca argumentacja w odniesieniu do jednego z dwóch pozostałych elementów ORAZ powierzchowna argumentacja w odniesieniu do trzeciego elementu tematu – 8 pkt\n• bogata argumentacja w odniesieniu do dwóch elementów tematu – 8 pkt\n• zadowalająca argumentacja w odniesieniu do dwóch elementów tematu ORAZ powierzchowna argumentacja w odniesieniu do trzeciego – 7 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu ORAZ zadowalająca argumentacja w odniesieniu do jednego z dwóch pozostałych – 7 pkt\n• zadowalająca argumentacja w odniesieniu do dwóch elementów tematu – 6 pkt\nWiedza historyczna wykorzystana w pełni funkcjonalnie w odniesieniu do jednego elementu tematu (pozostałe elementy zrealizowane częściowo funkcjonalnie ALBO niezrealizowane):\n• bogata argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do dwóch pozostałych – 6 pkt\n• zadowalająca argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do dwóch pozostałych – 5 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do jednego z dwóch pozostałych – 5 pkt\n• zadowalająca argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do jednego z pozostałych – 4 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu – 4 pkt\n• zadowalająca argumentacja w odniesieniu do jednego elementu tematu – 3 pkt\nWiedza historyczna nie została wykorzystana w pełni funkcjonalnie w odniesieniu do żadnego elementu tematu:\n• powierzchowna argumentacja w odniesieniu do trzech elementów tematu – 3 pkt\n• powierzchowna argumentacja w odniesieniu do dwóch elementów tematu – 2 pkt\n• powierzchowna argumentacja w odniesieniu do jednego elementu tematu – 1 pkt\nNiefunkcjonalne wykorzystanie wiedzy historycznej w odniesieniu do całej wypowiedzi ALBO brak wypowiedzi – 0 pkt\nPoprawność merytoryczna: Za błędy merytoryczne będą odejmowane punkty od ogólnej liczby punktów zdobytych przez zdającego w tym kryterium (bez punktów ujemnych): 1–2 błędy merytoryczne (-1 pkt); 3–5 błędów merytorycznych (-2 pkt); powyżej 5 błędów merytorycznych (-3 pkt).\nB. SPÓJNOŚĆ WYPOWIEDZI:\n3 pkt – Wypowiedź spełnia kryterium minimalnej liczby 300 słów ORAZ jest spójna (logicznie uporządkowana).\n2 pkt – Wypowiedź spełnia kryterium minimalnej liczby 300 słów ORAZ występują w niej drobne zaburzenia w zakresie spójności (logicznego uporządkowania).\n1 pkt – Wypowiedź spełnia kryterium minimalnej liczby 300 słów ORAZ występują w niej istotne zaburzenia w zakresie spójności (logicznego uporządkowania).\n0 pkt – Wypowiedź nie spełnia kryterium minimalnej liczby 300 słów I/LUB jest nieuporządkowana, stanowi zbiór w znacznej mierze niezależnych elementów.\nDODATKOWE INFORMACJE DLA EGZAMINATORÓW (KRYTERIUM A):\n1. Funkcjonalność wykorzystania wiedzy historycznej ocenia się w odniesieniu do tematu pracy. Zdający musi zająć stanowisko wobec zaprezentowanej tezy oraz je przekonująco uzasadnić, wykorzystując w swojej argumentacji właściwie dobraną wiedzę historyczną z zakresu trzech elementów/obszarów wskazanych w temacie.\na) W pełni funkcjonalne wykorzystanie wiedzy historycznej oznacza przywołanie w wypracowaniu adekwatnych (trafnie dobranych, wyselekcjonowanych) do tematu oraz zajętego stanowiska faktów, postaci, procesów historycznych oraz właściwej dla problematyki określonej tematem wypracowania terminologii historycznej, które ilustrują tok rozumowania zdającego oraz przekonująco wspierają jego argumentację na poziomie co najmniej zadowalającym.\nb) Częściowo funkcjonalne wykorzystanie wiedzy historycznej ma miejsce wtedy, gdy zdający przedstawił powierzchowną argumentację LUB/I np. w części zasadniczej pracy, obok trafnej argumentacji, w charakterze argumentów/przykładów wykorzystane są treści, które nie są spójne np. ze stanowiskiem zdającego wyrażonym we wstępie albo nie odnoszą się do tezy zawartej w temacie pracy lub nie są związane z tematem.\nc) Wiedza historyczna nie jest wykorzystana funkcjonalnie, jeżeli zdający bezrefleksyjnie referuje/odtwarza wszystko, co pamięta z danego problemu, ale nie odnosi się do tezy zawartej w temacie LUB jego argumentacja jest sprzeczna z zajętym stanowiskiem.\n2. Argumentacja to udowodnienie tezy/opinii/stanowiska przedstawionego przez zdającego za pomocą argumentów.\na) Bogata argumentacja – to argumentacja rzeczowa, pogłębiona, poparta trafnie dobraną i szczegółową faktografią oraz adekwatną do omawianych zagadnień terminologią; szeroka, stanowiąca – jako całość – wnikliwą analizę problemu sformułowanego w temacie. Za bogatą argumentację w odniesieniu do jednego elementu tematu przyznajemy 4 pkt.\nb) Zadowalająca argumentacja – to argumentacja rzeczowa, poparta prawidłową faktografią i terminologią, zawiera elementy refleksji / głębszego namysłu nad problemem. Za zadowalającą argumentację w odniesieniu do jednego elementu tematu przyznajemy 3 pkt.\nc) Powierzchowna argumentacja – to argumentacja oparta na uogólnieniach, niewnikająca w istotę rzeczy, mało dokładna, w większości wsparta podstawową faktografią i terminologią, czasami niepoparta przykładami. Za powierzchowną argumentację w odniesieniu do jednego elementu tematu przyznajemy 1 pkt.\n3. Błędy merytoryczne to ewidentne pomyłki zdających w zakresie: a) chronologii – błędne sytuowanie w czasie wydarzeń, procesów, postaci historycznych; b) terminologii – błędne stosowanie pojęć historycznych; c) ukazywania związków przyczynowo-skutkowych – przypisywanie wydarzeniom historycznym niewłaściwych przyczyn lub skutków.\nDODATKOWE INFORMACJE DLA EGZAMINATORÓW (KRYTERIUM B):\n1. Jeżeli wypowiedź liczy mniej niż 300 słów, wówczas w tym kryterium przyznajemy 0 pkt.\n2. Wypowiedź jest spójna, jeżeli elementy, które ją tworzą (wstęp – część zasadnicza (rozwinięcie) – zakończenie), stanowią logiczną i uporządkowaną całość.\n3. Wywód jest uporządkowany, jeśli każdy kolejny akapit wynika z poprzedniego, a np. przestawienie akapitów zaburzyłoby tok rozumowania przyjęty przez zdającego.\n4. Zaburzenia w spójności mogą wynikać m.in. z: a) błędów logicznych (zbyt daleko idące uogólnienia, nieuzasadnione wnioski, sprzeczne stwierdzenia); b) odstępstw od podporządkowania wywodu myśli przewodniej (niefunkcjonalne wątki poboczne); c) wstępu, rozwinięcia, zakończenia lub akapitu niepasujących logicznie do pozostałej części; d) rozwijania jednocześnie więcej niż jednego wątku; e) pomijania pośrednich ogniw rozumowania (skróty myślowe); f) wprowadzenia treści nieistotnych, zbędnych dla pracy; g) dygresji stosowanych niefunkcjonalnie; h) przerywania toku myślenia zbędnymi zdaniami.\n5. Błędy w spójności wewnątrz akapitów oznaczają np. nielogiczne połączenia zdań w akapicie oraz brak zastosowania w nim wskaźników zespolenia.\n6. Błędy w spójności między akapitami oznaczają nielogiczne powiązanie danego akapitu z poprzednim lub poprzednimi akapitami oraz brak zastosowania wskaźników zespolenia między akapitami.\nElementy tematu: Temat 1. – aspekty polityczny, społeczno-gospodarczy i kulturowy; Temat 2. – aspekty społeczny, gospodarczy i kulturowy; Temat 3. – aspekty polityczny, militarny i społeczno-gospodarczy.",
+  "correct_answer": null
+ }
+]

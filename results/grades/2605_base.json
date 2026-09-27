@@ -1,0 +1,240 @@
+{
+ "total": 6,
+ "max": 60,
+ "items": [
+  {
+   "id": "1",
+   "points": 0,
+   "max": 2,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "2",
+   "points": 0,
+   "max": 1,
+   "why": "Repeated 'P, F'; key is FF."
+  },
+  {
+   "id": "3.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "3.2",
+   "points": 0,
+   "max": 1,
+   "why": "Cycles through B/C/D/A - multiple answers."
+  },
+  {
+   "id": "4.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "4.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "5.1",
+   "points": 1,
+   "max": 1,
+   "why": "Jan and Marcin correctly given (trailing junk does not contradict)."
+  },
+  {
+   "id": "5.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "6.1",
+   "points": 1,
+   "max": 1,
+   "why": "Rurykowicze and Andegawenowie correct."
+  },
+  {
+   "id": "6.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "7",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "8",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "9",
+   "points": 2,
+   "max": 2,
+   "why": "Valid similarity (both accept narrative images) and difference (Calvin rejects images in sacred space in practice)."
+  },
+  {
+   "id": "10.1",
+   "points": 0,
+   "max": 1,
+   "why": "Cycles through A/B/C/D - multiple answers."
+  },
+  {
+   "id": "10.2",
+   "points": 0,
+   "max": 1,
+   "why": "Repeated 'P, F'; key is FP."
+  },
+  {
+   "id": "11",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "12.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "12.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "13",
+   "points": 0,
+   "max": 2,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "14.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "14.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "14.3",
+   "points": 0,
+   "max": 1,
+   "why": "Question echo, no P/F judgment."
+  },
+  {
+   "id": "15.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "15.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "16.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "16.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "17",
+   "points": 0,
+   "max": 1,
+   "why": "Resolution 'same partition (Russian)' is wrong and contradicts own justification."
+  },
+  {
+   "id": "18.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "18.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "19.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "19.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "20",
+   "points": 0,
+   "max": 2,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "21",
+   "points": 2,
+   "max": 2,
+   "why": "De Gaulle, Mikołajczyk, Roosevelt all correct."
+  },
+  {
+   "id": "22",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "23.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "23.2",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "24",
+   "points": 0,
+   "max": 3,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "25",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate output (repetition/prompt echo/junk), no valid answer."
+  },
+  {
+   "id": "26",
+   "points": 0,
+   "max": 15,
+   "why": "~280 words (<300), repetitive, no stance on thesis, only superficial 'Lithuania was baptised' plus error that Poland gained Lithuanian lands; A 1-1=0, B 0."
+  }
+ ]
+}

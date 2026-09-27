@@ -1,0 +1,7 @@
+# GPU extras: GGUF conversion and training (tested on an NVIDIA L4 for inference, A100 for training)
+torch==2.11.0
+transformers==5.16.1
+peft==0.20.0
+safetensors==0.8.0
+sentencepiece==0.2.2
+gguf==0.19.0

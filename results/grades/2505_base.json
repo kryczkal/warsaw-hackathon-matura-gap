@@ -1,0 +1,234 @@
+{
+ "total": 8,
+ "max": 60,
+ "items": [
+  {
+   "id": "1.1",
+   "points": 0,
+   "max": 1,
+   "why": "Only echoes the sources/question; no choice of photo and no justification."
+  },
+  {
+   "id": "1.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echo of item 1.1 plus an empty dotted line; no explanation."
+  },
+  {
+   "id": "2",
+   "points": 0,
+   "max": 1,
+   "why": "Resolution 'po reformie' right, but justification gives no chronology (V w. p.n.e. vs I w. n.e.); it only restates the sources."
+  },
+  {
+   "id": "3.1",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes questions 3.1/3.2; no function named."
+  },
+  {
+   "id": "3.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes the question; no resolution or justification."
+  },
+  {
+   "id": "4",
+   "points": 2,
+   "max": 2,
+   "why": "Clear A: Franciszkanie, B: Benedyktyni, C: Jezuici. The trailing 'A: 1 / B: 2 / C: 3' loop is noise, not a rival order name."
+  },
+  {
+   "id": "5.1",
+   "points": 0,
+   "max": 1,
+   "why": "'Władysław Łokietek' for both; key is Wacław II and Brzetysław I."
+  },
+  {
+   "id": "5.2",
+   "points": 0,
+   "max": 1,
+   "why": "No answer, only the stray token 'model'."
+  },
+  {
+   "id": "6",
+   "points": 0,
+   "max": 1,
+   "why": "Echo of question 6 and source text; no digit chosen."
+  },
+  {
+   "id": "7.1",
+   "points": 0,
+   "max": 1,
+   "why": "Implies 'tak' but the justification is fabricated (Grunwald in 1466, dozens of invented 1462 battles)."
+  },
+  {
+   "id": "7.2",
+   "points": 0,
+   "max": 1,
+   "why": "Only a counting sequence 1..402; no option chosen."
+  },
+  {
+   "id": "8",
+   "points": 0,
+   "max": 2,
+   "why": "Echoes item 9's source text and garbage; no styles named."
+  },
+  {
+   "id": "9.1",
+   "points": 0,
+   "max": 1,
+   "why": "Degenerate '1.1.1...' string; no option."
+  },
+  {
+   "id": "9.2",
+   "points": 0,
+   "max": 1,
+   "why": "Only an empty numbered list; no document named."
+  },
+  {
+   "id": "9.3",
+   "points": 0,
+   "max": 1,
+   "why": "'Wojna Trzydziestoletnia' is wrong; key is the St Bartholomew's Day massacre."
+  },
+  {
+   "id": "10",
+   "points": 0,
+   "max": 1,
+   "why": "1: P, 2: F; key is 1: F, 2: P. This is a verbatim copy of the answer_format template."
+  },
+  {
+   "id": "11.1",
+   "points": 2,
+   "max": 2,
+   "why": "Clear A: Stany Zjednoczone, B: Francja, C: Polska, all correct; the later junk does not contradict it."
+  },
+  {
+   "id": "11.2",
+   "points": 0,
+   "max": 1,
+   "why": "Only an empty numbered list; no resolution."
+  },
+  {
+   "id": "12",
+   "points": 0,
+   "max": 1,
+   "why": "Only a numbered list; no resolution or justification."
+  },
+  {
+   "id": "13",
+   "points": 0,
+   "max": 1,
+   "why": "Only a numbered list; no explanation."
+  },
+  {
+   "id": "14.1",
+   "points": 0,
+   "max": 1,
+   "why": "Only item headers; no resolution."
+  },
+  {
+   "id": "14.2",
+   "points": 2,
+   "max": 2,
+   "why": "1: P, 2: F, 3: P, clear and consistent, matches the key. Caveat: it is a verbatim copy of the answer_format template."
+  },
+  {
+   "id": "15.1",
+   "points": 1,
+   "max": 1,
+   "why": "1. P, 2. F, clear and consistent, matches the key. Caveat: it matches the answer_format template."
+  },
+  {
+   "id": "15.2",
+   "points": 0,
+   "max": 1,
+   "why": "Only a numbered list; no resolution."
+  },
+  {
+   "id": "16.1",
+   "points": 0,
+   "max": 1,
+   "why": "Only item headers; no answer."
+  },
+  {
+   "id": "16.2",
+   "points": 0,
+   "max": 1,
+   "why": "Only item headers; no answer."
+  },
+  {
+   "id": "17.1",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes the question; no movement named."
+  },
+  {
+   "id": "17.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes the question and options (trailing 'A.' is the echoed option list); no clear choice."
+  },
+  {
+   "id": "18",
+   "points": 0,
+   "max": 3,
+   "why": "Only item headers; no interpretation."
+  },
+  {
+   "id": "19",
+   "points": 0,
+   "max": 2,
+   "why": "Echoes the question; no events named."
+  },
+  {
+   "id": "20",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes the answer-format line; no ideologies named."
+  },
+  {
+   "id": "21.1",
+   "points": 0,
+   "max": 1,
+   "why": "Echoes an image placeholder; no name."
+  },
+  {
+   "id": "21.2",
+   "points": 0,
+   "max": 1,
+   "why": "Echo plus Georgian garbage; no resolution."
+  },
+  {
+   "id": "22",
+   "points": 0,
+   "max": 1,
+   "why": "Claims the formation from source 1 fought at Lenino; wrong, since Anders' army was evacuated. Key: nie."
+  },
+  {
+   "id": "23",
+   "points": 0,
+   "max": 1,
+   "why": "Only item header '23. 0-1'; no answer."
+  },
+  {
+   "id": "24.1",
+   "points": 0,
+   "max": 2,
+   "why": "Echoes 'Podobieństwo:' headers; no similarity or difference stated."
+  },
+  {
+   "id": "24.2",
+   "points": 1,
+   "max": 1,
+   "why": "'Rumunia', repeated consistently (interleaved junk tokens do not compete). Correct."
+  },
+  {
+   "id": "25",
+   "points": 0,
+   "max": 15,
+   "why": "No essay; only the three topic prompts echoed repeatedly."
+  }
+ ]
+}

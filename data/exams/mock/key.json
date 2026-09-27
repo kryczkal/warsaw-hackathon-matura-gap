@@ -1,0 +1,268 @@
+[
+  {
+    "id": "1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do ilustracji.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: neolitu\nPrzykładowe uzasadnienie:\nNa ilustracji widać rekonstrukcję zabudowań mieszkalnych. W wyniku rewolucji neolitycznej nastąpiło przejście z koczowniczego na osiadły tryb życia i zaczęły tworzyć się osady, a później miasta.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "2.1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z tekstu.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: Fragment 2.\nPrzykładowe uzasadnienie:\nTekst z fragmentu 2. charakteryzuje rzeczywistość starożytnej Sparty, o czym świadczy m.in. informacja o lokalizacji tej polis na Peloponezie / informacja o hegemonii Sparty na Peloponezie / określenie „miasto Lacedemończyków” / określenie „heloci”.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "2.2",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za dwa prawidłowe wskazania.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nA–3\nB–2",
+    "notes": "Klucz dla zadania zamkniętego; zapis w składni answer_format.",
+    "answer_formatted": "A: 3\nB: 2"
+  },
+  {
+    "id": "3",
+    "max_points": 2,
+    "scoring_rule": "2 pkt – odpowiedź zawierająca trzy prawidłowe wskazania.\n1 pkt – odpowiedź zawierająca dwa prawidłowe wskazania.\n0 pkt – odpowiedź niepoprawna lub niepełna albo brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\n1–F\n2–P\n3–P",
+    "notes": "Klucz dla zadania zamkniętego; zapis w składni answer_format.",
+    "answer_formatted": "1: F\n2: P\n3: P"
+  },
+  {
+    "id": "4.1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za podanie prawidłowej nazwy.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nHanza [hanza niemiecka, związek hanzeatycki]",
+    "notes": "Zadanie otwarte; w nawiasach kwadratowych podano elementy/warianty akceptowane (np. opcjonalne imię, synonim)."
+  },
+  {
+    "id": "4.2",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do informacji z obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: Tak\nPrzykładowe uzasadnienie:\nCechą charakterystyczną w układzie przestrzennym miast lokowanych na prawie lubeckim był brak centralnie położonego, prostokątnego rynku. Rolę placu targowego pełniła szeroka ulica. Taki układ jest widoczny na planie Elbląga.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "5.1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za podanie prawidłowej nazwy.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nWojna stuletnia",
+    "notes": "Zadanie otwarte; w nawiasach kwadratowych podano elementy/warianty akceptowane (np. opcjonalne imię, synonim)."
+  },
+  {
+    "id": "5.2",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe wyjaśnienie zawierające odwołanie do tablicy genealogicznej.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Przykładowe rozwiązania\n• Edward III zaczął domagać się uznania go za sukcesora korony francuskiej, gdyż był po matce (Izabeli) potomkiem dynastii Kapetyngów, której panowanie we Francji wygasło wobec braku bezpośrednich męskich następców tronu.\n• W sytuacji, gdy wygasła główna linia dynastii Kapetyngów, a tron francuski przejęła jej boczna linia – Walezjusze.\n• Edward III był po matce (Izabeli) potomkiem dynastii Kapetyngów.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "5.3",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe wyjaśnienie zawierające odwołanie do ilustracji.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Przykładowe rozwiązanie\nEdward III manifestował swoje pretensje do korony francuskiej przez używanie na proporcu, obok symboli angielskich [lwów], symboli korony francuskiej [dynastii Kapetyngów – lilii na niebieskim tle].",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "6",
+    "max_points": 2,
+    "scoring_rule": "2 pkt – za przedstawienie jednego podobieństwa i jednej różnicy między opiniami.\n1 pkt – za przedstawienie jednego podobieństwa albo jednej różnicy między opiniami.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Przykładowe rozwiązanie\nPodobieństwo:\n• W obu zaprezentowanych opiniach początek kariery politycznej Łokietka jest ukazany negatywnie – jako okres mało chwalebny, pełen intryg, działań podstępnych, doraźnych i krótkowzrocznych.\n• Obaj historycy podkreślają, że zasługą Łokietka było zjednoczenie Polski [koronacja królewska].\nRóżnica:\n• Autor opinii ze źródła 1. uważa, że Łokietek rozwijał swoje zdolności i umiejętność prowadzenia polityki wraz ze zdobywanym doświadczeniem – z niewyrobionego księcia stał się dojrzałym i przezornym władcą. Autor opinii ze źródła 2. twierdzi, że Łokietek pozostawał przez całe swoje życie władcą o ograniczonych horyzontach.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "7",
+    "max_points": 2,
+    "scoring_rule": "2 pkt – za podanie dwóch prawidłowych nazw stylów i po jednej cesze każdego z nich.\n1 pkt – za podanie jednej prawidłowej nazwy stylu i jego cechy albo za podanie dwóch prawidłowych nazw stylów.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nNazwa stylu 1.: gotycki\nCechy:\n• ostrołukowe okna\n• duże zdobione okna\n• maswerki\n• strzelistość\n• przypory\nNazwa stylu 2.: renesansowy\nCechy:\n• okna półkoliste i prostokątne\n• dominuje kąt prosty i koło\n• równowaga między poziomem i pionem\n• klasyczny tympanon\n• wieża z hełmem",
+    "notes": "Zadanie otwarte; w nawiasach kwadratowych podano elementy/warianty akceptowane (np. opcjonalne imię, synonim)."
+  },
+  {
+    "id": "8",
+    "max_points": 2,
+    "scoring_rule": "2 pkt – za sformułowanie dwóch prawidłowych argumentów.\n1 pkt – za sformułowanie jednego prawidłowego argumentu.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Przykładowe rozwiązanie\n• Na szalkach wagi zostały umieszczone z jednej strony symbole Kościoła katolickiego, m.in. tiara papieska, klucz św. Piotra, zakonnicy i Biblia, a z drugiej strony tylko Biblia. Szala z Biblią przeważa, co oznacza przewagę Biblii nad wszystkim pozostałym. Zwolennicy reformacji Biblię uważali za jedyne źródło wiary.\n• Po jednej stronie ukazana jest hierarchia Kościoła katolickiego, m.in. papież na tronie, kardynałowie, biskupi, przedstawiciele różnych zakonów. Z drugiej strony grupa równych sobie, skromnie i jednolicie ubranych ludzi, co symbolizuje ideę Kościoła zgodną z doktrynami reformacji (odrzucenie władzy papieża, likwidacja zakonów).",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "9.1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za podanie prawidłowego imienia władcy.\n0 pkt – za błędną odpowiedź albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nZygmunt III [Waza], Zygmunt Waza",
+    "notes": "Zadanie otwarte; w nawiasach kwadratowych podano elementy/warianty akceptowane (np. opcjonalne imię, synonim)."
+  },
+  {
+    "id": "9.2",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za przedstawienie prawidłowej przyczyny.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Przykładowe rozwiązania\n• Przyczyną konfliktu polsko-szwedzkiego była rywalizacja o panowanie nad basenem Morza Bałtyckiego [uzyskanie hegemonii nad tym obszarem].\n• Przyczyną konfliktu polsko-szwedzkiego była rywalizacja o panowanie nad obszarem Inflant.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "9.3",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe wyjaśnienie.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Przykładowe rozwiązanie\nW przypadku ostatniego władcy z dynastii Jagiellonów (Zygmunt II August) o końcu jego panowania zdecydowała śmierć. Z kolei w przypadku ostatniego władcy z dynastii Wazów (Jan II Kazimierz) mieliśmy do czynienia z abdykacją.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "10",
+    "max_points": 2,
+    "scoring_rule": "2 pkt – odpowiedź zawierająca trzy prawidłowe wskazania.\n1 pkt – odpowiedź zawierająca dwa prawidłowe wskazania.\n0 pkt – odpowiedź niepoprawna lub niepełna albo brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\n1–P\n2–F\n3–P",
+    "notes": "Klucz dla zadania zamkniętego; zapis w składni answer_format.",
+    "answer_formatted": "1: P\n2: F\n3: P"
+  },
+  {
+    "id": "11.1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe wyjaśnienie.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Przykładowe rozwiązanie\n• Opisana w tekście zasada liberum veto na polskim gruncie przekształciła się w zasadę literalnie rozumianej jednomyślności, co skutkowało zrywaniem sejmów i paraliżem państwa.\n• Liberum veto stało się narzędziem walki politycznej, szczególnie w okresie oligarchii magnackiej.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "11.2",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłową odpowiedź.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nC",
+    "notes": "Klucz dla zadania zamkniętego; zapis w składni answer_format.",
+    "answer_formatted": "C"
+  },
+  {
+    "id": "12",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: Nie\nPrzykładowe uzasadnienie:\nIstotą monteskiuszowskiej zasady trójpodziału władzy w państwie jest równowaga władzy ustawodawczej, wykonawczej i sądowniczej. W tekście jest mowa o tym, że władza prawodawcza (ustawodawcza) należy w Rzeczypospolitej do trzech stanów sejmujących: królewskiego, senatorskiego i poselskiego.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "13.1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym nazwę bitwy oraz odwołanie do informacji zawartych w obu źródłach.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: B\nPrzykładowe uzasadnienie:\nW źródle 2. została opisana bitwa pod Ostrołęką, ponieważ jest w niej mowa m.in. o przegranej wojsk polskich, udziale w niej gen. Józefa Bema, ataku Rosjan przez rzekę. Na planie B widać m.in. trasę ataku wojsk gen. Bema.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "13.2",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłową odpowiedź.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nC",
+    "notes": "Klucz dla zadania zamkniętego; zapis w składni answer_format.",
+    "answer_formatted": "C"
+  },
+  {
+    "id": "14.1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za podanie prawidłowego nazwiska.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\n[Ignacy] Łukasiewicz",
+    "notes": "Zadanie otwarte; w nawiasach kwadratowych podano elementy/warianty akceptowane (np. opcjonalne imię, synonim)."
+  },
+  {
+    "id": "14.2",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za podanie prawidłowej nazwy.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nZabór austriacki [Galicja]",
+    "notes": "Zadanie otwarte; w nawiasach kwadratowych podano elementy/warianty akceptowane (np. opcjonalne imię, synonim)."
+  },
+  {
+    "id": "15",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za podanie prawidłowej nazwy i jednej cechy stylu.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nNazwa stylu: realizm\nCechy stylu:\n• przedstawianie spraw codziennych\n• brak idealizacji\n• pokazywanie pracy zwykłych ludzi\n• elementy brzydoty",
+    "notes": "Zadanie otwarte; w nawiasach kwadratowych podano elementy/warianty akceptowane (np. opcjonalne imię, synonim)."
+  },
+  {
+    "id": "16.1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: Tak\nPrzykładowe uzasadnienie:\nW źródle 2. została przedstawiona doktryna komunistyczna, której istotą była krytyka nierówności klasowych i zapowiedź rewolucyjnych zmian w tym zakresie, wypracowanych w działaniu zbiorowym. Pieśń odwołuje się do tych haseł: „będziemy wspólnie pracowali”, „niech zginie stary, podły świat”. Zawarta jest w niej także zapowiedź rewolucji i tworzenia nowego ładu.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "16.2",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za podanie prawidłowego nazwiska.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\n[Fryderyk] Engels, [Karol] Marks",
+    "notes": "Zadanie otwarte; w nawiasach kwadratowych podano elementy/warianty akceptowane (np. opcjonalne imię, synonim)."
+  },
+  {
+    "id": "17",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: Tak\nPrzykładowe uzasadnienie:\nW źródle 1. została zaprezentowana krytyczna ocena polityki Wielkiej Brytanii, która – zdaniem autora przemówienia – bezwzględnie eksploatuje jedną ze swych kolonii, tj. Indie, stosując ucisk fiskalny. Ilustracja ze źródła 2. potwierdza ten stan rzeczy. Widać na niej dobrze ubranych i przebywających w komfortowych warunkach brytyjskich urzędników oraz wychudzonych i zrozpaczonych Hindusów.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "18",
+    "max_points": 3,
+    "scoring_rule": "3 pkt – za prawidłowe wyjaśnienie wymowy rysunku wraz z interpretacją dwóch elementów graficznych i tytułu oraz przedstawienie kontekstu historycznego z 1917 roku.\n2 pkt – za prawidłowe wyjaśnienie wymowy rysunku wraz z interpretacją dwóch elementów graficznych albo tytułu oraz przedstawienie kontekstu historycznego z 1917 roku.\n1 pkt – za prawidłowe wyjaśnienie wymowy rysunku wraz z interpretacją dwóch elementów graficznych albo tytułu bez przedstawienia kontekstu historycznego z 1917 roku.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Przykładowa odpowiedź\nWymowa rysunku nawiązuje do pomocy w postaci wsparcia finansowego (worek z dolarami), jakiej Stany Zjednoczone (postać Wuja Sama) udzieliły Francji (kobieta w czapce frygijskiej z napisem „Francja”) w okresie I wojny światowej, na co wskazuje data powstania karykatury (1917 rok). O współpracy francusko-amerykańskiej świadczy także tytuł „Duch roku ’76” (nawiązanie do roku ogłoszenia amerykańskiej Deklaracji Niepodległości) oraz obecność postaci La Fayette’a, który jako Francuz walczył ochotniczo w wojnie o niepodległość Stanów Zjednoczonych. W 1917 roku USA symbolicznie spłacają ten dług wdzięczności, ofiarowując Francji wsparcie finansowe w trakcie I wojny światowej. Ostatecznie w 1917 roku USA przystąpią do wojny po stronie ententy.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "19",
+    "max_points": 2,
+    "scoring_rule": "2 pkt – odpowiedź zawierająca trzy prawidłowe wskazania.\n1 pkt – odpowiedź zawierająca dwa prawidłowe wskazania.\n0 pkt – odpowiedź niepoprawna lub niepełna albo brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\n1–F\n2–P\n3–F",
+    "notes": "Klucz dla zadania zamkniętego; zapis w składni answer_format.",
+    "answer_formatted": "1: F\n2: P\n3: F"
+  },
+  {
+    "id": "20",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: Nie\nPrzykładowe uzasadnienie:\nDo łamania postanowień traktatu wersalskiego nawiązuje tylko źródło 2., które odnosi się do kwestii remilitaryzacji Nadrenii przez Niemcy w 1936 roku. Źródło 1. odnosi się do plebiscytu w okręgu Saary z 1935 roku, co nie było naruszeniem traktatu wersalskiego.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "21",
+    "max_points": 2,
+    "scoring_rule": "2 pkt – za dwie prawidłowe odpowiedzi.\n1 pkt – za jedną prawidłową odpowiedź.\n0 pkt – za odpowiedź błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\n1–B\n2–C",
+    "notes": "Klucz dla zadania zamkniętego; zapis w składni answer_format.",
+    "answer_formatted": "1: B\n2: C"
+  },
+  {
+    "id": "22",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: Nie\nPrzykładowe uzasadnienie:\nTraktat A odnosi się do powstania Paktu Północnoatlantyckiego, który był utworzony jako sojusz obronny świata zachodniego. Natomiast traktat B jest traktatem założycielskim Układu Warszawskiego, który utworzyły państwa komunistycznej Europy pod kierownictwem ZSRS.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "23",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe wyjaśnienie.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Przykładowe rozwiązanie\nCzesław Miłosz pisał o swoich przyjaciołach, którzy zostali zamordowani przez Sowietów w wyniku zbrodni katyńskiej w 1940 roku. PRL, jako państwo zależne od ZSRS, propagowała tzw. kłamstwo katyńskie polegające na przypisywaniu tej zbrodni Niemcom.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "24",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za prawidłowe rozstrzygnięcie wraz z uzasadnieniem zawierającym odwołanie do obu źródeł.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nRozstrzygnięcie: Nie\nPrzykładowe uzasadnienie:\nŹródło 1. jest przejawem kampanii propagandowej z 1968 roku, kiedy winnymi strajków studenckich okrzyknięto „syjonistów” – zwolenników państwa Izrael. Doprowadziło to do antysemickich czystek w Polsce. Źródło 2. jest przykładem kampanii propagandowej wymierzonej w wizerunek polskiego Kościoła. Tuż przed obchodami milenium chrztu Polski biskupi polscy skierowali do biskupów niemieckich list, w którym znalazły się słowa „przebaczamy i prosimy o przebaczenie”, co komuniści chcieli pokazać jako przykład antypolskiej działalności Kościoła.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "25.1",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za podanie prawidłowego nazwiska wraz z wyjaśnieniem zawierającym odwołanie do faktografii.\n0 pkt – za odpowiedź niepełną, błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nNazwisko: [Leonid] Breżniew\nPrzykładowe wyjaśnienie:\nBreżniew ciężką chorobą nazywał sytuację związaną z falą strajków, narodzinami i legalizacją ruchu społecznego Solidarności, co oznaczało kryzys władzy komunistycznej w Polsce.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "25.2",
+    "max_points": 1,
+    "scoring_rule": "1 pkt – za podanie prawidłowego nazwiska wraz z wyjaśnieniem zawierającym odwołanie do faktografii.\n0 pkt – za odpowiedź niepełną lub błędną albo za brak odpowiedzi.",
+    "correct_answer": "Rozwiązanie\nNazwisko: [Wojciech] Jaruzelski\nPrzykładowe wyjaśnienie:\nJaruzelski postanowił dokonać siłowej rozprawy z Solidarnością i ruchami opozycyjnymi – w tym celu wprowadził stan wojenny na terenie całego kraju, by zdelegalizować i spacyfikować opozycję.",
+    "notes": "Zadanie otwarte: podane rozwiązanie jest przykładowe; akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki zadania (uwaga ogólna z zasad oceniania)."
+  },
+  {
+    "id": "26",
+    "max_points": 15,
+    "scoring_rule": "Zadanie 26. (0–15) – wypracowanie. Punkty: A. NARRACJA HISTORYCZNA (0–12 pkt) + B. SPÓJNOŚĆ WYPOWIEDZI (0–3 pkt).\n\nA. NARRACJA HISTORYCZNA (tabela: Funkcjonalność wykorzystania wiedzy historycznej | Poziom argumentacji wypowiedzi | Liczba punktów | Poprawność merytoryczna)\n\nWiedza historyczna wykorzystana w pełni funkcjonalnie w odniesieniu do trzech elementów tematu:\n• bogata argumentacja w odniesieniu do trzech elementów tematu – 12 pkt\n• bogata argumentacja w odniesieniu do dwóch elementów tematu ORAZ zadowalająca argumentacja w odniesieniu do trzeciego – 11 pkt\n• bogata argumentacja do jednego elementu tematu ORAZ zadowalająca argumentacja w odniesieniu do dwóch pozostałych – 10 pkt\n• zadowalająca argumentacja w odniesieniu do trzech elementów tematu – 9 pkt\n\nWiedza historyczna wykorzystana w pełni funkcjonalnie w odniesieniu do dwóch elementów tematu (trzeci element zrealizowany częściowo funkcjonalnie ALBO niezrealizowany):\n• bogata argumentacja w odniesieniu do dwóch elementów tematu ORAZ powierzchowna argumentacja w odniesieniu do trzeciego – 9 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu, zadowalająca argumentacja w odniesieniu do jednego z dwóch pozostałych elementów ORAZ powierzchowna argumentacja w odniesieniu do trzeciego elementu tematu – 8 pkt\n• bogata argumentacja w odniesieniu do dwóch elementów tematu – 8 pkt\n• zadowalająca argumentacja w odniesieniu do dwóch elementów tematu ORAZ powierzchowna argumentacja w odniesieniu do trzeciego – 7 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu ORAZ zadowalająca argumentacja w odniesieniu do jednego z dwóch pozostałych – 7 pkt\n• zadowalająca argumentacja w odniesieniu do dwóch elementów tematu – 6 pkt\n\nWiedza historyczna wykorzystana w pełni funkcjonalnie w odniesieniu do jednego elementu tematu (pozostałe elementy zrealizowane częściowo funkcjonalnie ALBO niezrealizowane):\n• bogata argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do dwóch pozostałych – 6 pkt\n• zadowalająca argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do dwóch pozostałych – 5 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do jednego z dwóch pozostałych – 5 pkt\n• zadowalająca argumentacja w odniesieniu do jednego elementu tematu ORAZ powierzchowna argumentacja w odniesieniu do jednego z pozostałych – 4 pkt\n• bogata argumentacja w odniesieniu do jednego elementu tematu – 4 pkt\n• zadowalająca argumentacja w odniesieniu do jednego elementu tematu – 3 pkt\n\nWiedza historyczna nie została wykorzystana w pełni funkcjonalnie w odniesieniu do żadnego elementu tematu:\n• powierzchowna argumentacja w odniesieniu do trzech elementów tematu – 3 pkt\n• powierzchowna argumentacja w odniesieniu do dwóch elementów tematu – 2 pkt\n• powierzchowna argumentacja w odniesieniu do jednego elementu tematu – 1 pkt\n\nNiefunkcjonalne wykorzystanie wiedzy historycznej w odniesieniu do całej wypowiedzi ALBO brak wypowiedzi – 0 pkt\n\nPoprawność merytoryczna: Za błędy merytoryczne będą odejmowane punkty od ogólnej liczby punktów zdobytych przez zdającego w tym kryterium (bez punktów ujemnych):\n• 1–2 błędy merytoryczne (-1 pkt)\n• 3–5 błędów merytorycznych (-2 pkt)\n• powyżej 5 błędów merytorycznych (-3 pkt)\n\nB. SPÓJNOŚĆ WYPOWIEDZI\n• Wypowiedź spełnia kryterium minimalnej liczby 300 słów ORAZ jest spójna (logicznie uporządkowana). – 3 pkt\n• Wypowiedź spełnia kryterium minimalnej liczby 300 słów ORAZ występują w niej drobne zaburzenia w zakresie spójności (logicznego uporządkowana). – 2 pkt\n• Wypowiedź spełnia kryterium minimalnej liczby 300 słów ORAZ występują w niej istotne zaburzenia w zakresie spójności (logicznego uporządkowania). – 1 pkt\n• Wypowiedź nie spełnia kryterium minimalnej liczby 300 słów I/LUB jest nieuporządkowana, stanowi zbiór w znacznej mierze niezależnych elementów. – 0 pkt\n\nDODATKOWE INFORMACJE DLA EGZAMINATORÓW\n(KRYTERIUM A – NARRACJA HISTORYCZNA)\n1. Funkcjonalność wykorzystania wiedzy historycznej ocenia się w odniesieniu do tematu pracy. Zdający musi zająć stanowisko wobec zaprezentowanej tezy oraz je przekonująco uzasadnić, wykorzystując w swojej argumentacji właściwie dobraną wiedzę historyczną z zakresu trzech elementów/obszarów wskazanych w temacie.\na) W pełni funkcjonalne wykorzystanie wiedzy historycznej oznacza przywołanie w wypracowaniu:\n  o adekwatnych (trafnie dobranych, wyselekcjonowanych) do tematu oraz zajętego stanowiska faktów, postaci, procesów historycznych\n  o właściwej dla problematyki określonej tematem wypracowania terminologii historycznej które ilustrują tok rozumowania zdającego oraz przekonująco wspierają jego argumentację na poziomie co najmniej zadowalającym.\nb) Częściowo funkcjonalne wykorzystanie wiedzy historycznej ma miejsce wtedy, gdy zdający przedstawił powierzchowną argumentację LUB/I np. w części zasadniczej pracy, obok trafnej argumentacji, w charakterze argumentów/przykładów wykorzystane są treści, które nie są spójne np. ze stanowiskiem zdającego wyrażonym we wstępie albo nie odnoszą się do tezy zawartej w temacie pracy lub nie są związane z tematem.\nc) Wiedza historyczna nie jest wykorzystana funkcjonalnie, jeżeli zdający bezrefleksyjnie referuje/odtwarza wszystko, co pamięta z danego problemu, ale nie odnosi się do tezy zawartej w temacie LUB jego argumentacja jest sprzeczna z zajętym stanowiskiem.\n2. Argumentacja to udowodnienie tezy/opinii/stanowiska przedstawionego przez zdającego za pomocą argumentów.\na) Bogata argumentacja – to argumentacja rzeczowa, pogłębiona, poparta trafnie dobraną i szczegółową faktografią oraz adekwatną do omawianych zagadnień terminologią; szeroka, stanowiąca – jako całość – wnikliwą analizę problemu sformułowanego w temacie.\nZa bogatą argumentację w odniesieniu do jednego elementu tematu przyznajemy 4 pkt.\nb) Zadowalająca argumentacja – to argumentacja rzeczowa, poparta prawidłową faktografią i terminologią, zawiera elementy refleksji / głębszego namysłu nad problemem.\nZa zadowalającą argumentację w odniesieniu do jednego elementu tematu przyznajemy 3 pkt.\nc) Powierzchowna argumentacja – to argumentacja oparta na uogólnieniach, niewnikająca w istotę rzeczy, mało dokładna, w większości wsparta podstawową faktografią i terminologią, czasami niepoparta przykładami .\nZa powierzchowną argumentację w odniesieniu do jednego elementu tematu przyznajemy 1 pkt.\n3. Błędy merytoryczne to ewidentne pomyłki zdających w zakresie:\na) chronologii – błędne sytuowanie w czasie wydarzeń, procesów, postaci historycznych (np. W połowie XV wieku epidemia dżumy, zwana czarną śmiercią, zakończyła się śmiercią około 1/3 liczby mieszkańców Europy.; Pod koniec II wojny światowej głównym przeciwnikiem komunistów w walce o władzę w Chinach był przywódca Kuomintangu – Sun Jat-sen; Kulminacyjnym momentem wojny secesyjnej była bitwa pod Yorktown).\nb) terminologii – błędne stosowanie pojęć historycznych (np. W okresie średniowiecza w Europie dominował ustrój monarchii despotycznych; Innym, obok jakobinów, klubem politycznym rewolucyjnego parlamentu we Francji, była żakeria; W wielu monarchiach europejskich, w zakresie dziedziczenia tronu, obowiązywała zasada predestynacji).\nc) ukazywania związków przyczynowo-skutkowych – przypisywanie wydarzeniom historycznym niewłaściwych przyczyn lub skutków (np. Bezpośrednią przyczyną tzw. nocy listopadowej 1830 roku była branka i polityka Aleksandra Wielopolskiego; Na mocy pokoju kończącego Wielką Wojnę z Zakonem Krzyżackim Polska odzyskała Pomorze Gdańskie wraz z Warmią, które to ziemie od tej pory nosiły nazwę Prus Królewskich.)\nDODATKOWE INFORMACJE DLA EGZAMINATORÓW\n(KRYTERIUM B – SPÓJNOŚĆ WYPOWIEDZI)\n1. Jeżeli praca wypowiedź liczy mniej niż 300 słów, wówczas w tym kryterium przyznajemy 0 pkt.\n2. Wypowiedź jest spójna, jeżeli elementy, które ją tworzą (wstęp – część zasadnicza (rozwinięcie) – zakończenie), stanowią logiczną i uporządkowaną całość.\n3. Wywód jest uporządkowany, jeśli każdy kolejny akapit wynika z poprzedniego, a np. przestawienie akapitów zaburzyłoby tok rozumowania przyjęty przez zdającego.\n4. Zaburzenia w spójności mogą wynikać m.in. z:\na) błędów logicznych, w tym np. zbyt daleko idących uogólnień, nieuzasadnionych wniosków (np. wnioski w zakończeniu pracy nie wynikają z przeprowadzonego rozumowania), sprzecznych stwierdzeń\nb) odstępstw od podporządkowania wywodu myśli przewodniej, np. wypracowanie zawiera niefunkcjonalne fragmenty stanowiące niezwiązane z tematem wątki poboczne\nc) zredagowaniu wstępu lub rozwinięcia, lub zakończenia, lub akapitu, które nie pasują logicznie do pozostałej części wypracowania, nie łączą się logicznie z poprzedzającą je częścią / poprzedzającym je akapitem\nd) rozwijania jednocześnie więcej niż jednego wątku („zazębiania” się wątków)\ne) pomijania pośrednich ogniw rozumowania, tzw. skróty myślowe\nf) wprowadzenie treści nieistotnych, zbędnych dla pracy, bez związku/pozostających w wątpliwym związku z tematem/wywodem\ng) wprowadzania dygresji stosowanych niefunkcjonalnie\nh) przerywania toku myślenia zbędnymi zdaniami.\n5. Błędy w spójności wewnątrz akapitów oznaczają np. nielogiczne połączenia zdań w akapicie oraz brak zastosowania w nim wskaźników zespolenia.\n6. Błędy w spójności między akapitami oznaczają nielogiczne powiązanie danego akapitu z poprzednim lub poprzednimi akapitami oraz brak zastosowania wskaźników zespolenia między akapitami.",
+    "correct_answer": "Brak modelowego wypracowania w zasadach oceniania. Wymagania szczegółowe sprawdzane w poszczególnych tematach (wg zasad oceniania; wymagania ogólne dla wszystkich tematów: I. Chronologia historyczna – 1) porządkuje i synchronizuje wydarzenia z historii powszechnej oraz dziejów ojczystych; 2) dostrzega zmienność i dynamikę wydarzeń w dziejach, a także ciągłość procesów historycznych i cywilizacyjnych. III. Tworzenie narracji historycznej – 1) tworzy narrację historyczną w ujęciu przekrojowym, jak i problemowym; 2) dostrzega problem i buduje argumentację, uwzględniając różne aspekty procesu historycznego; 3) dokonuje selekcji i hierarchizacji oraz integruje informacje pozyskane z różnych źródeł wiedzy.)\n\nTemat 1. IX. Polska w okresie wczesnopiastowskim. Zdający: 1) wyjaśnia uwarunkowania narodzin państwa polskiego i jego chrystianizacji, z uwzględnieniem roli […] Bolesława Chrobrego; 2) opisuje zmiany terytorialne państwa polskiego w X–XII w.; 3) rozpoznaje tendencje centralistyczne i decentralistyczne w życiu politycznym państwa polskiego w X–XII w. (PP) 1) charakteryzuje organizację państwa wczesnopiastowskiego; 2) dokonuje bilansu panowania władców piastowskich (do 1138 r.). (PR)\n\nTemat 2. XXV. Rewolucje XVIII w. Zdający: 1) wyjaśnia genezę i charakteryzuje następstwa amerykańskiej wojny o niepodległość; 2) charakteryzuje ustrój Stanów Zjednoczonych w świetle założeń konstytucji amerykańskiej; 3) wyjaśnia przyczyny i opisuje skutki rewolucji francuskiej; 4) ocenia znaczenie rewolucji amerykańskiej i francuskiej z perspektywy politycznej, gospodarczej i społecznej; 5) przedstawia wkład Polaków w walkę o niepodległość Stanów Zjednoczonych. (PP) – wyjaśnia specyfikę okresu jakobińskiego. (PR)\n\nTemat 3. LI. Świat po II wojnie światowej. Początek zimnej wojny. Zdający: 4) opisuje przyczyny rozpadu koalicji antyhitlerowskiej i wyjaśnia genezę zimnej wojny (z uwzględnieniem wojny w Korei); 5) charakteryzuje powojenny problem niemiecki; 6) omawia proces sowietyzacji państw Europy Środkowo-Wschodniej; 7) wyjaśnia genezę NATO i Układu Warszawskiego i charakteryzuje oba bloki polityczno-wojskowe; 8) charakteryzuje zmiany w ZSRS po śmierci Stalina; opisuje wydarzenia w NRD w 1953 roku i na Węgrzech w 1956 roku […]. (PP) LII. Dekolonizacja, integracja i nowe konflikty. Zdający: 2) wyjaśnia przyczyny i przedstawia skutki konfliktów zimnowojennych, w tym wojny w Wietnamie, kryzysu kubańskiego oraz wojny w Afganistanie. (PP) 1) charakteryzuje […] problem […] współistnienia państw demokratycznych z państwami totalitarnymi. (PR)",
+    "notes": "Wypracowanie: zdający wybiera 1 z 3 tematów (min. 300 słów). Kryterium A (0–12): za każdy z trzech elementów tematu bogata argumentacja = 4 pkt, zadowalająca = 3 pkt, powierzchowna = 1 pkt (suma wg tabeli), minus 1/2/3 pkt za 1–2 / 3–5 / >5 błędów merytorycznych (bez punktów ujemnych). Kryterium B (0–3): spójność; <300 słów = 0 pkt w B. Temat 1: tendencje decentralizacyjne w XI–XII w. (3 wybranych władców); Temat 2: podobieństwo przyczyn rewolucji amerykańskiej i francuskiej (aspekt polityczny, społeczno-gospodarczy, kulturowy); Temat 3: apogeum zimnej wojny w latach 50. XX w. (3 wybrane wydarzenia). Zasady nie zawierają przykładowych treści wypracowań – jedynie wymagania szczegółowe (w correct_answer)."
+  }
+]

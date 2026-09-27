@@ -1,0 +1,228 @@
+{
+ "total": 39,
+ "max": 60,
+ "items": [
+  {
+   "id": "1",
+   "points": 1,
+   "max": 1,
+   "why": "Neolit; odwołanie do zabudowań z gliny na ilustracji."
+  },
+  {
+   "id": "2.1",
+   "points": 1,
+   "max": 1,
+   "why": "Fragment 2; heloci/Peloponez."
+  },
+  {
+   "id": "2.2",
+   "points": 1,
+   "max": 1,
+   "why": "A-3, B-2."
+  },
+  {
+   "id": "3",
+   "points": 2,
+   "max": 2,
+   "why": "F-P-P poprawnie."
+  },
+  {
+   "id": "4.1",
+   "points": 1,
+   "max": 1,
+   "why": "Hanza."
+  },
+  {
+   "id": "4.2",
+   "points": 1,
+   "max": 1,
+   "why": "Tak; brak rynku i układ ulic wg obu źródeł."
+  },
+  {
+   "id": "5.1",
+   "points": 1,
+   "max": 1,
+   "why": "Wojna stuletnia."
+  },
+  {
+   "id": "5.2",
+   "points": 1,
+   "max": 1,
+   "why": "Wygaśnięcie męskiej linii Kapetyngów, Edward wnukiem Filipa IV po Izabeli."
+  },
+  {
+   "id": "5.3",
+   "points": 1,
+   "max": 1,
+   "why": "Chorągiew łącząca lwy Anglii i lilie Francji - element zgodny z kluczem."
+  },
+  {
+   "id": "6",
+   "points": 2,
+   "max": 2,
+   "why": "Podobieństwo i różnica poprawne."
+  },
+  {
+   "id": "7",
+   "points": 1,
+   "max": 2,
+   "why": "Gotyk z ostrołukowymi oknami poprawny; barok błędny."
+  },
+  {
+   "id": "8",
+   "points": 0,
+   "max": 2,
+   "why": "Argumenty niezgodne z ryciną (biblioteka, brak tiary)."
+  },
+  {
+   "id": "9.1",
+   "points": 1,
+   "max": 1,
+   "why": "Zygmunt III Waza."
+  },
+  {
+   "id": "9.2",
+   "points": 0,
+   "max": 1,
+   "why": "Polityka Zygmunta III (dynastyczna) - nie jest inną przyczyną niż w źródle."
+  },
+  {
+   "id": "9.3",
+   "points": 1,
+   "max": 1,
+   "why": "Śmierć vs abdykacja."
+  },
+  {
+   "id": "10",
+   "points": 1,
+   "max": 2,
+   "why": "Dwa poprawne wskazania (3 błędnie F)."
+  },
+  {
+   "id": "11.1",
+   "points": 1,
+   "max": 1,
+   "why": "Liberum veto jako narzędzie walki politycznej, zrywanie sejmów."
+  },
+  {
+   "id": "11.2",
+   "points": 1,
+   "max": 1,
+   "why": "C."
+  },
+  {
+   "id": "12",
+   "points": 0,
+   "max": 1,
+   "why": "Błędne rozstrzygnięcie (Tak)."
+  },
+  {
+   "id": "13.1",
+   "points": 1,
+   "max": 1,
+   "why": "B; Ostrołęka, Bem, przeprawa przez Narew na planie B."
+  },
+  {
+   "id": "13.2",
+   "points": 1,
+   "max": 1,
+   "why": "C."
+  },
+  {
+   "id": "14.1",
+   "points": 0,
+   "max": 1,
+   "why": "Błędnie: Kopernik (Łukasiewicz)."
+  },
+  {
+   "id": "14.2",
+   "points": 1,
+   "max": 1,
+   "why": "Galicja."
+  },
+  {
+   "id": "15",
+   "points": 1,
+   "max": 1,
+   "why": "Realizm; scena z życia wsi bez idealizacji."
+  },
+  {
+   "id": "16.1",
+   "points": 1,
+   "max": 1,
+   "why": "Tak; rewolucja i nowy ład w obu źródłach."
+  },
+  {
+   "id": "16.2",
+   "points": 1,
+   "max": 1,
+   "why": "Marks."
+  },
+  {
+   "id": "17",
+   "points": 0,
+   "max": 1,
+   "why": "Rozstrzygnięcie poprawne, ale opis ilustracji zmyślony (pobór soli zamiast głodujących Hindusów)."
+  },
+  {
+   "id": "18",
+   "points": 0,
+   "max": 3,
+   "why": "Błędna interpretacja (niepodległość Polski)."
+  },
+  {
+   "id": "19",
+   "points": 1,
+   "max": 2,
+   "why": "Dwa poprawne wskazania."
+  },
+  {
+   "id": "20",
+   "points": 0,
+   "max": 1,
+   "why": "Błędne rozstrzygnięcie (Tak) - plebiscyt w Saarze nie łamał traktatu."
+  },
+  {
+   "id": "21",
+   "points": 2,
+   "max": 2,
+   "why": "B, C."
+  },
+  {
+   "id": "22",
+   "points": 1,
+   "max": 1,
+   "why": "Nie; NATO vs Układ Warszawski."
+  },
+  {
+   "id": "23",
+   "points": 1,
+   "max": 1,
+   "why": "Katyń, NKWD, kłamstwo katyńskie."
+  },
+  {
+   "id": "24",
+   "points": 0,
+   "max": 1,
+   "why": "Błędne rozstrzygnięcie (Tak)."
+  },
+  {
+   "id": "25.1",
+   "points": 1,
+   "max": 1,
+   "why": "Breżniew; strajki i Solidarność."
+  },
+  {
+   "id": "25.2",
+   "points": 1,
+   "max": 1,
+   "why": "Jaruzelski; stan wojenny 13 XII 1981."
+  },
+  {
+   "id": "26",
+   "points": 8,
+   "max": 15,
+   "why": "Temat 2: kulturowy i polityczny zadowalające, społ.-gosp. powierzchowny i błędny (7); 3+ błędy (trzy stany w Ameryce, bawełna, rewolucja zakończona Deklaracją) -2 => A5; B3."
+  }
+ ]
+}
